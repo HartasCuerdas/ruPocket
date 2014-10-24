@@ -1,6 +1,4 @@
 require './item.rb'
-require 'httparty'
-require 'json'
 
 class ItemLoader
 
@@ -8,16 +6,35 @@ class ItemLoader
     @items = []
   end
 
-  def load
-    item1tags = ['dev','rails']
-    item1 = Item.new('hola', item1tags)
-    @items.push(item1)
+  def load(list)
 
-    item2tags = ['new','dev']
-    item2 = Item.new('uhm', item2tags)
-    @items.push(item2)
+    for item in list
+
+      info = item[1]
+      oItem = Item.new
+      
+      given_title = info['given_title']
+      oItem.setGivenTitle(given_title)
+
+      given_url = info['given_url']
+      oItem.setGivenURL(given_url)
+
+      if info.has_key?('tags')
+        tags = []
+        info_tags = info['tags']
+        for tag in info_tags
+          str_tag = tag[1]['tag']
+          tags.push(str_tag)
+        end
+        oItem.setTags(tags)
+      end
+
+      @items.push(oItem)
+
+    end
 
     @items
+
   end
 
 end

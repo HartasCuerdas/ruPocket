@@ -5,16 +5,26 @@ class Tags
   def initialize(items)
     @tags = Hash.new
     for item in items
-      for tag in item.getTags
-        addTag(tag)
+      tags = item.getTags
+      if !tags.empty?
+        for tag in tags
+          addTag(tag)
+        end
       end
     end
   end
 
   def print
+    @tags.sort_by {|_key, value| value}
+    puts ''
+    puts '==========='
+    puts ' Tag Stats'
+    puts '==========='
     @tags.each do |tag, count|
       puts "#{tag}: #{count}"
     end
+    puts '==========='
+    puts ''
   end
 
   def addTag(tag)
