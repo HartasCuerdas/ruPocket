@@ -29,11 +29,18 @@ Thanks to [alexchee](https://github.com/alexchee), author of [pocket-api](https:
      Tag Stats
     ===========
     dev: 32
-    history: 21
-    startups: 15
-    things: 22
-    ruby: 15
-    rails: 13
-    node.js: 21
-    chess: 10
+    history: 25
+    startups: 20
+    things: 18
+    ruby: 17
+    rails: 17
+    node.js: 15
+    chess: 11
     ===========
+
+## I think that stats are wrong
+
+    # Try to process more saved items.
+    # Increment count parameter to 100, for instance.
+    # :count => 100
+    info = client.retrieve(:detailType => :complete, :count => 100)
