@@ -19,6 +19,10 @@ Thanks to [alexchee](https://github.com/alexchee), author of [pocket-api](https:
 
     open http://localhost:4567/tags
 
+## Use cached data to generate stats
+
+    open http://localhost:4567/tags-cache
+
 ## Where my stats are?
 
     Stats are printed to the console
