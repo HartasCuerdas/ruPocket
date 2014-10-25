@@ -7,7 +7,7 @@ require 'yaml'
 require 'pocket.rb'
 
 require './itemLoader.rb'
-require './pocket-console.rb'
+require 'pocketConsole'
 
 enable :sessions
 
@@ -37,7 +37,7 @@ def tags(info)
   untaggedItems = itemLoader.getUntaggedItems
 
   pocketConsole = PocketConsole.new(taggedItems, untaggedItems)
-  pocketConsole.print
+  pocketConsole.printStats
 
   'Stats are in the console'
 end

@@ -1,4 +1,4 @@
-require './item.rb'
+require 'item'
 
 class ItemLoader
 

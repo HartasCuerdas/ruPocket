@@ -1,0 +1,26 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    faraday (0.8.9)
+      multipart-post (~> 1.2.0)
+    faraday_middleware (0.9.1)
+      faraday (>= 0.7.4, < 0.10)
+    hashie (3.3.1)
+    multi_json (1.10.1)
+    multipart-post (1.2.0)
+    pocket-classes (0.0.1)
+    pocket-console (0.0.1)
+      pocket-classes (~> 0.0.1)
+    pocket-ruby (0.0.5)
+      faraday (>= 0.7, < 0.9)
+      faraday_middleware (~> 0.8)
+      hashie (>= 0.4.0)
+      multi_json (~> 1.0, >= 1.0.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  pocket-classes (~> 0.0.1)
+  pocket-console (~> 0.0.0)
+  pocket-ruby (~> 0.0.5)
