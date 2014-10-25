@@ -14,18 +14,18 @@ enable :sessions
 CALLBACK_URL = "http://localhost:4567/oauth/callback"
 
 Pocket.configure do |config|
-  config.consumer_key = 'YOUR-CONSUMER-KEY'
+  config.consumer_key = 'YOUR-CONSUMER_KEY'
 end
 
 get '/tags' do
   client = Pocket.client(:access_token => session[:access_token])
   info = client.retrieve(:detailType => :complete, :count => 80, :state => :all)
-  File.open('./files/info.yml', 'w') {|f| f.write(YAML.dump(info)) }
+  File.open('./.cache-files/info.yml', 'w') {|f| f.write(YAML.dump(info)) }
   tags(info)
 end
 
 get '/tags-cache' do
-  info = YAML.load(File.read('./files/info.yml'))
+  info = YAML.load(File.read('./.cache-files/info.yml'))
   tags(info)
 end
 
