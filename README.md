@@ -25,7 +25,7 @@ Thanks to [alexchee](https://github.com/alexchee), author of [pocket-api](https:
 
 ## In console you will get your stats, like this...
 
-![Pocket Tagging Stats](pocket-tagging-stats.png)
+![Pocket Tagging Stats](./README-src/pocket-tagging-stats.png)
 
 ## I think that stats are wrong
 

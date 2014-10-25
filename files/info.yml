@@ -1,0 +1,4542 @@
+---
+status: 1
+complete: 1
+list:
+  '237938806':
+    item_id: '237938806'
+    resolved_id: '237938806'
+    given_url: http://getpocket.com/developer/docs/v3/retrieve
+    given_title: 'Pocket Developer Program: Pocket API: Retrieve'
+    favorite: '0'
+    status: '0'
+    time_added: '1414205660'
+    time_updated: '1414207004'
+    time_read: '0'
+    time_favorited: '0'
+    sort_id: 0
+    resolved_title: Retrieve
+    resolved_url: http://getpocket.com/developer/docs/v3/retrieve
+    excerpt: 'Pocket''s /v3/get endpoint is a single call that is incredibly versatile.
+      A few examples of the types of requests you can make:  In order to use the /v3/get
+      endpoint, your consumer key must have the "Retrieve" permission.'
+    is_article: '1'
+    is_index: '0'
+    has_video: '0'
+    has_image: '0'
+    word_count: '855'
+  '603937911':
+    item_id: '603937911'
+    resolved_id: '603937911'
+    given_url: http://simonallardice.com/general/2014/03/17/first-computer.html
+    given_title: Getting Started, circa 1983
+    favorite: '1'
+    status: '1'
+    time_added: '1414124772'
+    time_updated: '1414190464'
+    time_read: '1414190464'
+    time_favorited: '1414190433'
+    sort_id: 1
+    resolved_title: Getting Started, circa 1983
+    resolved_url: http://simonallardice.com/general/2014/03/17/first-computer.html
+    excerpt: Like most folks who started programming in the 70's and 80's, I began
+      on mainframes. It was years before I programmed a desktop computer.  Back in
+      your first programming job, what kind of computer was on your desk?
+    is_article: '1'
+    is_index: '0'
+    has_video: '0'
+    has_image: '1'
+    word_count: '475'
+    tags:
+      dev:
+        item_id: '603937911'
+        tag: dev
+      history:
+        item_id: '603937911'
+        tag: history
+    image:
+      item_id: '603937911'
+      src: http://simonallardice.com/assets/codingsheet.jpg
+      width: '0'
+      height: '0'
+    images:
+      '1':
+        item_id: '603937911'
+        image_id: '1'
+        src: http://simonallardice.com/assets/codingsheet.jpg
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '2':
+        item_id: '603937911'
+        image_id: '2'
+        src: http://simonallardice.com/assets/pencil.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+  '262957':
+    item_id: '262957'
+    resolved_id: '95264065'
+    given_url: http://www.newsweek.com/id/106554
+    given_title: The Internet? Bah! 1995 article on why the internet won't work
+    favorite: '0'
+    status: '0'
+    time_added: '1414124735'
+    time_updated: '1414124735'
+    time_read: '0'
+    time_favorited: '0'
+    sort_id: 2
+    resolved_title: The Internet? Bah!
+    resolved_url: http://www.thedailybeast.com/newsweek/1995/02/26/the-internet-bah.html
+    excerpt: After two decades online, I'm perplexed. It's not that I haven't had
+      a gas of a good time on the Internet. I've met great people and even caught
+      a hacker or two. But today, I'm uneasy about this most trendy and oversold community.
+    is_article: '1'
+    is_index: '0'
+    has_video: '0'
+    has_image: '1'
+    word_count: '729'
+    authors:
+      '2694345':
+        item_id: '262957'
+        author_id: '2694345'
+        name: Clifford Stoll
+        url: ''
+    image:
+      item_id: '262957'
+      src: http://www.thedailybeast.com/etc/clientlibs/dailybeast/img/hd/in-newsweek-magazine.png
+      width: '0'
+      height: '0'
+    images:
+      '1':
+        item_id: '262957'
+        image_id: '1'
+        src: http://www.thedailybeast.com/etc/clientlibs/dailybeast/img/hd/in-newsweek-magazine.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+  '174680296':
+    item_id: '174680296'
+    resolved_id: '174680296'
+    given_url: http://aux.messymatters.com/pgnames.html
+    given_title: '"Startup Names" by Paul Graham, 14 Mar 2006'
+    favorite: '0'
+    status: '0'
+    time_added: '1414086437'
+    time_updated: '1414086444'
+    time_read: '0'
+    time_favorited: '0'
+    sort_id: 3
+    resolved_title: '"Startup Names" by Paul Graham, 14 Mar 2006'
+    resolved_url: http://aux.messymatters.com/pgnames.html
+    excerpt: "[This was originally published on the now-defunct Infogami and was surprisingly
+      hard to find online, so I put it here. I’ve added commentary, with our now internet-decades
+      of hindsight, in brackets."
+    is_article: '0'
+    is_index: '0'
+    has_video: '0'
+    has_image: '1'
+    word_count: '897'
+    tags:
+      startups:
+        item_id: '174680296'
+        tag: startups
+    image:
+      item_id: '174680296'
+      src: http://messymatters.com/wp-content/uploads/2011/11/nomin_viaweb.png
+      width: '0'
+      height: '0'
+    images:
+      '1':
+        item_id: '174680296'
+        image_id: '1'
+        src: http://messymatters.com/wp-content/uploads/2011/11/nomin_viaweb.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '2':
+        item_id: '174680296'
+        image_id: '2'
+        src: http://messymatters.com/wp-content/uploads/2011/11/nomin_microsoft.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '3':
+        item_id: '174680296'
+        image_id: '3'
+        src: http://messymatters.com/wp-content/uploads/2011/11/nomin_stackoverflow.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '4':
+        item_id: '174680296'
+        image_id: '4'
+        src: http://messymatters.com/wp-content/uploads/2011/11/nomin_flickr.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '5':
+        item_id: '174680296'
+        image_id: '5'
+        src: http://messymatters.com/wp-content/uploads/2011/11/nomin_yahoo.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '6':
+        item_id: '174680296'
+        image_id: '6'
+        src: http://messymatters.com/wp-content/uploads/2011/11/nomin_google.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '7':
+        item_id: '174680296'
+        image_id: '7'
+        src: http://messymatters.com/wp-content/uploads/2011/11/nomin_coolcom.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '8':
+        item_id: '174680296'
+        image_id: '8'
+        src: http://messymatters.com/wp-content/uploads/2011/11/nomin_writely.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '9':
+        item_id: '174680296'
+        image_id: '9'
+        src: http://messymatters.com/wp-content/uploads/2011/11/nomin_delicious.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '10':
+        item_id: '174680296'
+        image_id: '10'
+        src: http://messymatters.com/wp-content/uploads/2011/11/nomin_reddit.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '11':
+        item_id: '174680296'
+        image_id: '11'
+        src: http://messymatters.com/wp-content/uploads/2011/11/nomin_youos.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '12':
+        item_id: '174680296'
+        image_id: '12'
+        src: http://messymatters.com/wp-content/uploads/2011/11/nomin_textpayme.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '13':
+        item_id: '174680296'
+        image_id: '13'
+        src: http://messymatters.com/wp-content/uploads/2011/11/nomin_amazon.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '14':
+        item_id: '174680296'
+        image_id: '14'
+        src: http://messymatters.com/wp-content/uploads/2011/11/nomin_flagr.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '15':
+        item_id: '174680296'
+        image_id: '15'
+        src: http://messymatters.com/wp-content/uploads/2011/11/nomin_infogami.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '16':
+        item_id: '174680296'
+        image_id: '16'
+        src: http://messymatters.com/wp-content/uploads/2011/11/nomin_wufoo.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '17':
+        item_id: '174680296'
+        image_id: '17'
+        src: http://messymatters.com/wp-content/uploads/2011/11/nomin_surveymonkey.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '18':
+        item_id: '174680296'
+        image_id: '18'
+        src: http://messymatters.com/wp-content/uploads/2011/11/nomin_webshaka.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+  '744882784':
+    item_id: '744882784'
+    resolved_id: '744882784'
+    given_url: http://www.messagetoeagle.com/vaticanlibrary.php#.VEk8-JPz1X7
+    given_title: 'Vatican Library Puts 4,000 Ancient Manuscripts Available Online
+      For Free - '
+    favorite: '0'
+    status: '0'
+    time_added: '1414086415'
+    time_updated: '1414122463'
+    time_read: '0'
+    time_favorited: '0'
+    sort_id: 4
+    resolved_title: Vatican Library Puts 4,000 Ancient Manuscripts Available Online
+      For Free
+    resolved_url: http://www.messagetoeagle.com/vaticanlibrary.php#.VEkMGhZ0Yim
+    excerpt: MessageToEagle.com - The Vatican Apostolic Library is now digitising
+      its valuable ancient religious manuscripts and putting them online via its website,
+      available for the public to view for free, as well as turning to crowdfunding
+      to help it complete its work.
+    is_article: '1'
+    is_index: '0'
+    has_video: '0'
+    has_image: '1'
+    word_count: '679'
+    tags:
+      things:
+        item_id: '744882784'
+        tag: things
+    image:
+      item_id: '744882784'
+      src: http://www.messagetoeagle.com/images2/vaticanlibrary_small.jpg
+      width: '120'
+      height: '85'
+    images:
+      '1':
+        item_id: '744882784'
+        image_id: '1'
+        src: http://www.messagetoeagle.com/images2/vaticanlibrary_small.jpg
+        width: '120'
+        height: '85'
+        credit: ''
+        caption: ''
+      '2':
+        item_id: '744882784'
+        image_id: '2'
+        src: http://www.messagetoeagle.com/images2/vatlib.jpg
+        width: '640'
+        height: '515'
+        credit: ''
+        caption: ''
+      '3':
+        item_id: '744882784'
+        image_id: '3'
+        src: http://www.messagetoeagle.com/images2/vatlib2.jpg
+        width: '640'
+        height: '667'
+        credit: ''
+        caption: ''
+      '4':
+        item_id: '744882784'
+        image_id: '4'
+        src: http://www.messagetoeagle.com/images2/vatlib3.jpg
+        width: '640'
+        height: '863'
+        credit: ''
+        caption: ''
+      '5':
+        item_id: '744882784'
+        image_id: '5'
+        src: http://www.messagetoeagle.com/images2/vatlib4.jpg
+        width: '640'
+        height: '771'
+        credit: ''
+        caption: ''
+      '6':
+        item_id: '744882784'
+        image_id: '6'
+        src: http://www.messagetoeagle.com/images2/vatlib5.jpg
+        width: '640'
+        height: '862'
+        credit: ''
+        caption: ''
+      '7':
+        item_id: '744882784'
+        image_id: '7'
+        src: http://www.messagetoeagle.com/images2/vatlib6.jpg
+        width: '348'
+        height: '700'
+        credit: ''
+        caption: ''
+      '8':
+        item_id: '744882784'
+        image_id: '8'
+        src: http://www.messagetoeagle.com/images2/vatlib7.jpg
+        width: '348'
+        height: '548'
+        credit: ''
+        caption: ''
+      '9':
+        item_id: '744882784'
+        image_id: '9'
+        src: http://www.messagetoeagle.com/images2/vatlib8.jpg
+        width: '640'
+        height: '503'
+        credit: ''
+        caption: ''
+  '744799217':
+    item_id: '744799217'
+    resolved_id: '744799217'
+    given_url: http://www.npr.org/blogs/money/2014/10/21/357629765/when-women-stopped-coding
+    given_title: 'When Women Stopped Coding : Planet Money : NPR'
+    favorite: '0'
+    status: '1'
+    time_added: '1414086345'
+    time_updated: '1414124532'
+    time_read: '1414122996'
+    time_favorited: '0'
+    sort_id: 5
+    resolved_title: When Women Stopped Coding
+    resolved_url: http://www.npr.org/blogs/money/2014/10/21/357629765/when-women-stopped-coding
+    excerpt: Modern computer science is dominated by men. But it hasn't always been
+      this way.  A lot of computing pioneers — the people who programmed the first
+      digital computers — were women. And for decades, the number of women studying
+      computer science was growing faster than the number of men.
+    is_article: '1'
+    is_index: '0'
+    has_video: '0'
+    has_image: '0'
+    word_count: '540'
+    tags:
+      dev:
+        item_id: '744799217'
+        tag: dev
+    authors:
+      '22446508':
+        item_id: '744799217'
+        author_id: '22446508'
+        name: Steve Henn
+        url: http://www.npr.org/people/336939601/steve-henn
+  '745628637':
+    item_id: '745628637'
+    resolved_id: '745560498'
+    given_url: http://www.nytimes.com/2014/10/26/magazine/what-if-age-is-nothing-but-a-mind-set.html?_r=0
+    given_title: What if Age Is Nothing but a Mind-Set? - NYTimes.com
+    favorite: '0'
+    status: '0'
+    time_added: '1414086316'
+    time_updated: '1414124438'
+    time_read: '0'
+    time_favorited: '0'
+    sort_id: 6
+    resolved_title: What if Age Is Nothing but a Mind-Set?
+    resolved_url: http://www.nytimes.com/2014/10/26/magazine/what-if-age-is-nothing-but-a-mind-set.html
+    excerpt: One day in the fall of 1981, eight men in their 70s stepped out of a
+      van in front of a converted monastery in New Hampshire. They shuffled forward,
+      a few of them arthritically stooped, a couple with canes. Then they passed through
+      the door and entered a time warp.
+    is_article: '1'
+    is_index: '0'
+    has_video: '0'
+    has_image: '1'
+    word_count: '5508'
+    tags:
+      things:
+        item_id: '745628637'
+        tag: things
+    authors:
+      '106871':
+        item_id: '745628637'
+        author_id: '106871'
+        name: BRUCE GRIERSON
+        url: ''
+    image:
+      item_id: '745628637'
+      src: http://static01.nyt.com/images/2014/10/26/magazine/26counterclockwise2/26counterclockwise2-master1050-v11.jpg
+      width: '0'
+      height: '0'
+    images:
+      '1':
+        item_id: '745628637'
+        image_id: '1'
+        src: http://static01.nyt.com/images/2014/10/26/magazine/26counterclockwise2/26counterclockwise2-master1050-v11.jpg
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: "\n            Credit\n            Photo illustrations by Zachary
+          Scott for The New York Times. Hair and Makeup: Bruce Spaulding Fuller, Aimee
+          Macabeo, Stephanie Daniel. Wardobe: Gillean McLeod. Set and Props: Patrick
+          Muller. Retouching: Electric Art, Amy Dresser.        "
+      '2':
+        item_id: '745628637'
+        image_id: '2'
+        src: http://static01.nyt.com/images/2014/10/26/magazine/2626counterclockwise-slide-8IGX/2626counterclockwise-slide-8IGX-blog427.jpg
+        width: '0'
+        height: '0'
+        credit: "\n            \n            Photo illustration  Zachary Scott for
+          The New York Times.        "
+        caption: "\n            Credit\n            Photo illustration by Zachary
+          Scott for The New York Times.        \n            "
+      '3':
+        item_id: '745628637'
+        image_id: '3'
+        src: http://static01.nyt.com/images/2014/10/26/magazine/26CounterClockwise-slide-DHKA/26CounterClockwise-slide-DHKA-blog427.jpg
+        width: '0'
+        height: '0'
+        credit: "\n            \n            Photo illustration  Zachary Scott for
+          The New York Times.         "
+        caption: "\n            Credit\n            Photo illustration by Zachary
+          Scott for The New York Times.         \n            "
+      '4':
+        item_id: '745628637'
+        image_id: '4'
+        src: http://static01.nyt.com/images/2014/10/26/magazine/2626counterclockwise-slide-2PGC/2626counterclockwise-slide-2PGC-blog427.jpg
+        width: '0'
+        height: '0'
+        credit: "\n            \n            Photo illustration  Zachary Scott for
+          The New York Times.        "
+        caption: "\n            Credit\n            Photo illustration by Zachary
+          Scott for The New York Times.        \n            "
+      '5':
+        item_id: '745628637'
+        image_id: '5'
+        src: http://static01.nyt.com/images/2014/10/26/magazine/2626counterclockwise-slide-TNNM/2626counterclockwise-slide-TNNM-blog427.jpg
+        width: '0'
+        height: '0'
+        credit: "\n            \n            Photo illustration  Zachary Scott for
+          The New York Times.        "
+        caption: "\n            Credit\n            Photo illustration by Zachary
+          Scott for The New York Times.        \n            "
+  '724166112':
+    item_id: '724166112'
+    resolved_id: '724166112'
+    given_url: https://github.com/yuki24/did_you_mean
+    given_title: yuki24/did_you_mean
+    favorite: '0'
+    status: '0'
+    time_added: '1414086071'
+    time_updated: '1414101921'
+    time_read: '0'
+    time_favorited: '0'
+    sort_id: 7
+    resolved_title: yuki24/did_you_mean
+    resolved_url: https://github.com/yuki24/did_you_mean
+    excerpt: "'Did you mean?' experience in Ruby. No, Really.  This gem only supports
+      Ruby 1.9.3, 2.0.0, 2.1.x, 2.2.0-preview1 and ruby-head. Any other ruby implementations
+      are NOT supported."
+    is_article: '1'
+    is_index: '0'
+    has_video: '0'
+    has_image: '1'
+    word_count: '232'
+    tags:
+      dev:
+        item_id: '724166112'
+        tag: dev
+      ruby:
+        item_id: '724166112'
+        tag: ruby
+    authors:
+      '24416765':
+        item_id: '724166112'
+        author_id: '24416765'
+        name: yuki24
+        url: https://github.com/yuki24
+    image:
+      item_id: '724166112'
+      src: https://camo.githubusercontent.com/c6f6e73629c60cfeab8a122d5fea222da1b3b0ca/68747470733a2f2f7472617669732d63692e6f72672f79756b6932342f6469645f796f755f6d65616e2e7376673f6272616e63683d6d6173746572
+      width: '0'
+      height: '0'
+    images:
+      '1':
+        item_id: '724166112'
+        image_id: '1'
+        src: https://camo.githubusercontent.com/c6f6e73629c60cfeab8a122d5fea222da1b3b0ca/68747470733a2f2f7472617669732d63692e6f72672f79756b6932342f6469645f796f755f6d65616e2e7376673f6272616e63683d6d6173746572
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '2':
+        item_id: '724166112'
+        image_id: '2'
+        src: https://camo.githubusercontent.com/02f3eb6ce222e49fb3e98ff9aeee737cc6972e46/68747470733a2f2f726177322e6769746875622e636f6d2f79756b6932342f6469645f796f755f6d65616e2f383666626237383461363738336132303737346133346239643032353533636662356162353462302f646f63732f6972625f6578616d706c652e706e67
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '3':
+        item_id: '724166112'
+        image_id: '3'
+        src: https://camo.githubusercontent.com/e36713a0f0b51f3d04ab4efc1054c131f53118db/68747470733a2f2f726177322e6769746875622e636f6d2f79756b6932342f6469645f796f755f6d65616e2f316336636463376334323533323536373137353264323631646361646431653034386531646361642f646f63732f72737065635f6578616d706c652e706e67
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '4':
+        item_id: '724166112'
+        image_id: '4'
+        src: https://camo.githubusercontent.com/3e15b35252cc585660699e447a438722261b0506/68747470733a2f2f726177322e6769746875622e636f6d2f79756b6932342f6469645f796f755f6d65616e2f346536643462343035373737663434656362326130653238633461626231653433386161333366662f646f63732f6265747465725f6572726f72735f6578616d706c652e706e67
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+  '746345467':
+    item_id: '746345467'
+    resolved_id: '746345467'
+    given_url: http://www.yukinishijima.net/2014/10/21/did-you-mean-experience-in-ruby.html
+    given_title: '"Did you mean?" Experience in Ruby'
+    favorite: '0'
+    status: '0'
+    time_added: '1414086017'
+    time_updated: '1414086024'
+    time_read: '0'
+    time_favorited: '0'
+    sort_id: 8
+    resolved_title: '"Did you mean?" Experience in Ruby'
+    resolved_url: http://www.yukinishijima.net/2014/10/21/did-you-mean-experience-in-ruby.html
+    excerpt: Sometimes I wasted hours and hours just because there is one character
+      difference. I hate it.  This is why I created did_you_mean gem. With it, whenever
+      you get NoMethodError or NameError, it'll automatically look for what you really
+      wanted to call and tell it to you.
+    is_article: '1'
+    is_index: '0'
+    has_video: '0'
+    has_image: '1'
+    word_count: '199'
+    tags:
+      rails:
+        item_id: '746345467'
+        tag: rails
+    image:
+      item_id: '746345467'
+      src: http://www.yukinishijima.net/img/2014-10-21-did-you-mean-experience-in-ruby/screenshot.png
+      width: '100'
+      height: '0'
+    images:
+      '1':
+        item_id: '746345467'
+        image_id: '1'
+        src: http://www.yukinishijima.net/img/2014-10-21-did-you-mean-experience-in-ruby/screenshot.png
+        width: '100'
+        height: '0'
+        credit: ''
+        caption: ''
+  '404609841':
+    item_id: '404609841'
+    resolved_id: '404609841'
+    given_url: https://github.com/hughsk/envify
+    given_title: envify
+    favorite: '0'
+    status: '0'
+    time_added: '1414043398'
+    time_updated: '1414043398'
+    time_read: '0'
+    time_favorited: '0'
+    sort_id: 9
+    resolved_title: hughsk/envify · GitHub
+    resolved_url: https://github.com/hughsk/envify
+    excerpt: Selectively replace Node-style environment variables with plain strings.
+      Available as a standalone CLI tool and a Browserify v2 transform.  Works best
+      in combination with uglifyify.
+    is_article: '1'
+    is_index: '1'
+    has_video: '0'
+    has_image: '0'
+    word_count: '226'
+  '529046692':
+    item_id: '529046692'
+    resolved_id: '529046692'
+    given_url: https://github.com/substack/node-browserify/wiki/list-of-transforms
+    given_title: number of transforms
+    favorite: '1'
+    status: '0'
+    time_added: '1414043252'
+    time_updated: '1414043654'
+    time_read: '0'
+    time_favorited: '1414043220'
+    sort_id: 10
+    resolved_title: list of transforms · substack/node-browserify Wiki · GitHub
+    resolved_url: https://github.com/substack/node-browserify/wiki/list-of-transforms
+    excerpt: You should also consult the packages on npm with the browserify-transform
+      tag.
+    is_article: '1'
+    is_index: '0'
+    has_video: '0'
+    has_image: '0'
+    word_count: '407'
+  '68696713':
+    item_id: '68696713'
+    resolved_id: '68696713'
+    given_url: https://github.com/substack/node-browserify#api-example
+    given_title: read through the API
+    favorite: '0'
+    status: '0'
+    time_added: '1414043203'
+    time_updated: '1414043202'
+    time_read: '0'
+    time_favorited: '0'
+    sort_id: 11
+    resolved_title: substack/node-browserify · GitHub
+    resolved_url: https://github.com/substack/node-browserify#plugins
+    excerpt: Use a node-style require() to organize your browser code and load modules
+      installed by npm.  Whip up a file, main.js with some require()s in it. You can
+      use relative paths like './foo.js' and '../lib/bar.
+    is_article: '1'
+    is_index: '0'
+    has_video: '0'
+    has_image: '1'
+    word_count: '2480'
+    image:
+      item_id: '68696713'
+      src: https://github-camo.global.ssl.fastly.net/b74149fd036fe0e3ee3aa2ba016362da83d86a21/68747470733a2f2f7365637572652e7472617669732d63692e6f72672f737562737461636b2f6e6f64652d62726f777365726966792e706e67
+      width: '0'
+      height: '0'
+    images:
+      '1':
+        item_id: '68696713'
+        image_id: '1'
+        src: https://github-camo.global.ssl.fastly.net/b74149fd036fe0e3ee3aa2ba016362da83d86a21/68747470733a2f2f7365637572652e7472617669732d63692e6f72672f737562737461636b2f6e6f64652d62726f777365726966792e706e67
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '2':
+        item_id: '68696713'
+        image_id: '2'
+        src: https://github-camo.global.ssl.fastly.net/e19e230a9371a44a2eeb484b83ff4fcf8c824cf7/687474703a2f2f737562737461636b2e6e65742f696d616765732f62726f777365726966795f6c6f676f2e706e67
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+  '309423492':
+    item_id: '309423492'
+    resolved_id: '309423492'
+    given_url: https://github.com/thlorenz/browserify-shim
+    given_title: browserify-shim
+    favorite: '0'
+    status: '0'
+    time_added: '1414043191'
+    time_updated: '1414043189'
+    time_read: '0'
+    time_favorited: '0'
+    sort_id: 12
+    resolved_title: thlorenz/browserify-shim · GitHub
+    resolved_url: https://github.com/thlorenz/browserify-shim
+    excerpt: For a version compatible with browserify@1.x run npm install browserify-shim@1.x
+      instead.  For a version compatible with the v2 API npm install browserify-shim@2.x
+      instead.
+    is_article: '1'
+    is_index: '0'
+    has_video: '0'
+    has_image: '1'
+    word_count: '895'
+    image:
+      item_id: '309423492'
+      src: https://nodei.co/npm/browserify-shim.png?downloads=true&stars=true
+      width: '0'
+      height: '0'
+    images:
+      '1':
+        item_id: '309423492'
+        image_id: '1'
+        src: https://nodei.co/npm/browserify-shim.png?downloads=true&stars=true
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+  '589541312':
+    item_id: '589541312'
+    resolved_id: '589541312'
+    given_url: https://github.com/greypants/gulp-starter/blob/master/package.json
+    given_title: package.json
+    favorite: '0'
+    status: '0'
+    time_added: '1414043175'
+    time_updated: '1414043174'
+    time_read: '0'
+    time_favorited: '0'
+    sort_id: 13
+    resolved_title: gulp-starter/package.json at master · greypants/gulp-starter ·
+      GitHub
+    resolved_url: https://github.com/greypants/gulp-starter/blob/master/package.json#L16
+    excerpt: You can clone with HTTPS or Subversion.
+    is_article: '0'
+    is_index: '0'
+    has_video: '0'
+    has_image: '0'
+    word_count: '94'
+  '590706328':
+    item_id: '590706328'
+    resolved_id: '590706328'
+    given_url: https://www.npmjs.org/package/vinyl-source-stream
+    given_title: vinyl-source-stream
+    favorite: '0'
+    status: '0'
+    time_added: '1414043130'
+    time_updated: '1414043129'
+    time_read: '0'
+    time_favorited: '0'
+    sort_id: 14
+    resolved_title: vinyl-source-stream
+    resolved_url: https://www.npmjs.org/package/vinyl-source-stream
+    excerpt: Use conventional text streams at the start of your gulp or vinyl pipelines,
+      making for nicer interoperability with the existing npm stream ecosystem.  Take,
+      for example, browserify.
+    is_article: '1'
+    is_index: '0'
+    has_video: '0'
+    has_image: '1'
+    word_count: '256'
+    image:
+      item_id: '590706328'
+      src: https://nodei.co/npm/vinyl-source-stream.png?mini=true
+      width: '0'
+      height: '0'
+    images:
+      '1':
+        item_id: '590706328'
+        image_id: '1'
+        src: https://nodei.co/npm/vinyl-source-stream.png?mini=true
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+  '746391086':
+    item_id: '746391086'
+    resolved_id: '746391086'
+    given_url: https://github.com/substack/node-browserify#api-example/node-browserify
+    given_title: node-browserify
+    favorite: '0'
+    status: '0'
+    time_added: '1414043127'
+    time_updated: '1414043127'
+    time_read: '0'
+    time_favorited: '0'
+    sort_id: 15
+    resolved_title: substack/node-browserify
+    resolved_url: https://github.com/substack/node-browserify#api-example/node-browserify
+    excerpt: Use a node-style require() to organize your browser code and load modules
+      installed by npm.  If you're new to browserify, check out the browserify handbook
+      and the resources on browserify.org.
+    is_article: '1'
+    is_index: '0'
+    has_video: '0'
+    has_image: '1'
+    word_count: '3099'
+    authors:
+      '19624650':
+        item_id: '746391086'
+        author_id: '19624650'
+        name: substack
+        url: https://github.com/substack
+    image:
+      item_id: '746391086'
+      src: https://camo.githubusercontent.com/b74149fd036fe0e3ee3aa2ba016362da83d86a21/68747470733a2f2f7365637572652e7472617669732d63692e6f72672f737562737461636b2f6e6f64652d62726f777365726966792e706e67
+      width: '0'
+      height: '0'
+    images:
+      '1':
+        item_id: '746391086'
+        image_id: '1'
+        src: https://camo.githubusercontent.com/b74149fd036fe0e3ee3aa2ba016362da83d86a21/68747470733a2f2f7365637572652e7472617669732d63692e6f72672f737562737461636b2f6e6f64652d62726f777365726966792e706e67
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '2':
+        item_id: '746391086'
+        image_id: '2'
+        src: https://camo.githubusercontent.com/e19e230a9371a44a2eeb484b83ff4fcf8c824cf7/687474703a2f2f737562737461636b2e6e65742f696d616765732f62726f777365726966795f6c6f676f2e706e67
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+  '589508445':
+    item_id: '589508445'
+    resolved_id: '589508445'
+    given_url: https://github.com/greypants/gulp-starter/blob/master/gulp/tasks/browserify.js
+    given_title: here.
+    favorite: '0'
+    status: '0'
+    time_added: '1414043036'
+    time_updated: '1414043036'
+    time_read: '0'
+    time_favorited: '0'
+    sort_id: 16
+    resolved_title: gulp-starter/gulp/tasks/browserify.js at master · greypants/gulp-starter
+      · GitHub
+    resolved_url: https://github.com/greypants/gulp-starter/blob/master/gulp/tasks/browserify.js
+    excerpt: You can clone with HTTPS or Subversion.
+    is_article: '0'
+    is_index: '0'
+    has_video: '0'
+    has_image: '0'
+    word_count: '194'
+  '227799803':
+    item_id: '227799803'
+    resolved_id: '333125245'
+    given_url: http://hapijs.com/
+    given_title: hapi.js
+    favorite: '0'
+    status: '0'
+    time_added: '1414032760'
+    time_updated: '1414032766'
+    time_read: '0'
+    time_favorited: '0'
+    sort_id: 17
+    resolved_title: hapi
+    resolved_url: http://spumko.github.io/
+    excerpt: A rich framework for building web applications and services. hapi is
+      a simple to use configuration-centric framework with built-in support for input
+      validation, caching, authentication, and other essential facilities.
+    is_article: '0'
+    is_index: '1'
+    has_video: '0'
+    has_image: '1'
+    word_count: '70'
+    tags:
+      node.js:
+        item_id: '227799803'
+        tag: node.js
+    image:
+      item_id: '227799803'
+      src: http://spumko.github.io/img/fork-me.png
+      width: '0'
+      height: '0'
+    images:
+      '1':
+        item_id: '227799803'
+        image_id: '1'
+        src: http://spumko.github.io/img/fork-me.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+  '124447811':
+    item_id: '124447811'
+    resolved_id: '124447811'
+    given_url: http://passportjs.org/guide/
+    given_title: Passport | Overview
+    favorite: '0'
+    status: '0'
+    time_added: '1414032610'
+    time_updated: '1414122530'
+    time_read: '0'
+    time_favorited: '0'
+    sort_id: 18
+    resolved_title: Overview
+    resolved_url: http://passportjs.org/guide/
+    excerpt: 'Passport is authentication middleware for Node. It is designed to serve
+      a singular purpose: authenticate requests. When writing modules, encapsulation
+      is a virtue, so Passport delegates all other functionality to the application.'
+    is_article: '1'
+    is_index: '1'
+    has_video: '0'
+    has_image: '0'
+    word_count: '163'
+    tags:
+      node.js:
+        item_id: '124447811'
+        tag: node.js
+    authors:
+      '5998085':
+        item_id: '124447811'
+        author_id: '5998085'
+        name: Authorize
+        url: http://passportjs.org/guide/authorize/
+  '494504198':
+    item_id: '494504198'
+    resolved_id: '494504198'
+    given_url: https://github.com/Siedrix/passport-pocket
+    given_title: Siedrix/passport-pocket
+    favorite: '0'
+    status: '1'
+    time_added: '1414032607'
+    time_updated: '1414098959'
+    time_read: '1414098959'
+    time_favorited: '0'
+    sort_id: 19
+    resolved_title: Siedrix/passport-pocket · GitHub
+    resolved_url: https://github.com/Siedrix/passport-pocket
+    excerpt: Passport strategy for authenticating with Pocket using the OAuth 1.0a
+      API.  This module lets you authenticate using Pocket in your Node.js applications.
+    is_article: '1'
+    is_index: '0'
+    has_video: '0'
+    has_image: '0'
+    word_count: '342'
+    tags:
+      pocket:
+        item_id: '494504198'
+        tag: pocket
+  '745049615':
+    item_id: '745049615'
+    resolved_id: '745049615'
+    given_url: http://www.wired.com/2014/10/beware-playing-lots-chess-will-shrink-brain/
+    given_title: ''
+    favorite: '1'
+    status: '0'
+    time_added: '1414032051'
+    time_updated: '1414122607'
+    time_read: '0'
+    time_favorited: '1414122607'
+    sort_id: 20
+    resolved_title: Beware, Playing Lots of Chess Will Shrink Your Brain!
+    resolved_url: http://www.wired.com/2014/10/beware-playing-lots-chess-will-shrink-brain/
+    excerpt: The newspapers love using neuroscience findings to make us feel bad about
+      our less salubrious habits. Earlier this year they had a field day with a study
+      that purported to show time spent watching online porn shrinks the brain.
+    is_article: '1'
+    is_index: '0'
+    has_video: '0'
+    has_image: '1'
+    word_count: '915'
+    tags:
+      chess:
+        item_id: '745049615'
+        tag: chess
+    authors:
+      '17948831':
+        item_id: '745049615'
+        author_id: '17948831'
+        name: Christian Jarrett
+        url: http://www.wired.com/author/christianjarrett/
+    image:
+      item_id: '745049615'
+      src: http://www.wired.com/wp-content/uploads/2014/10/chess.jpg
+      width: '660'
+      height: '383'
+    images:
+      '1':
+        item_id: '745049615'
+        image_id: '1'
+        src: http://www.wired.com/wp-content/uploads/2014/10/chess.jpg
+        width: '660'
+        height: '383'
+        credit: ''
+        caption: Galina / Flickr
+  '745937677':
+    item_id: '745937677'
+    resolved_id: '745937677'
+    given_url: https://dev.twitter.com/products/fabric
+    given_title: ''
+    favorite: '0'
+    status: '0'
+    time_added: '1414031087'
+    time_updated: '1414031091'
+    time_read: '0'
+    time_favorited: '0'
+    sort_id: 21
+    resolved_title: Introducing Fabric
+    resolved_url: https://dev.twitter.com/products/fabric
+    excerpt: Mobile SDKs, Defragmented. Over the last several years, we’ve witnessed
+      an explosion of mobile SDKs – each with the goal of solving a specific problem.
+    is_article: '1'
+    is_index: '1'
+    has_video: '0'
+    has_image: '1'
+    word_count: '180'
+    tags:
+      dev:
+        item_id: '745937677'
+        tag: dev
+    image:
+      item_id: '745937677'
+      src: https://g.twimg.com/dev/marketing/fabric/fabric-solves-this-problem.png
+      width: '0'
+      height: '0'
+    images:
+      '1':
+        item_id: '745937677'
+        image_id: '1'
+        src: https://g.twimg.com/dev/marketing/fabric/fabric-solves-this-problem.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '2':
+        item_id: '745937677'
+        image_id: '2'
+        src: https://g.twimg.com/dev/marketing/fabric/fabric-we-support.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: "\n            We support Xcode and all the major Android IDEs:          "
+      '3':
+        item_id: '745937677'
+        image_id: '3'
+        src: https://g.twimg.com/dev/marketing/fabric/fabric-build-tools.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: "\n            And build tools too:          "
+      '4':
+        item_id: '745937677'
+        image_id: '4'
+        src: https://g.twimg.com/dev/marketing/fabric/fabric-streamlined-installation.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+  '506118551':
+    item_id: '506118551'
+    resolved_id: '506118551'
+    given_url: http://www.stager.org/articles/twentythings.pdf
+    given_title: ''
+    favorite: '0'
+    status: '0'
+    time_added: '1414030862'
+    time_updated: '1414030869'
+    time_read: '0'
+    time_favorited: '0'
+    sort_id: 22
+    resolved_title: ''
+    resolved_url: http://www.stager.org/articles/twentythings.pdf
+    excerpt: ''
+    is_article: '0'
+    is_index: '0'
+    has_video: '0'
+    has_image: '0'
+    word_count: '0'
+    tags:
+      history:
+        item_id: '506118551'
+        tag: history
+  '260968501':
+    item_id: '260968501'
+    resolved_id: '260968501'
+    given_url: http://adodson.com/hello.js/
+    given_title: hello.js - Javascript API for OAuth2 authentication and REST services
+    favorite: '1'
+    status: '0'
+    time_added: '1414023217'
+    time_updated: '1414023224'
+    time_read: '0'
+    time_favorited: '1414023224'
+    sort_id: 23
+    resolved_title: Include hello.js script
+    resolved_url: http://adodson.com/hello.js/
+    excerpt: A client-side Javascript SDK for authenticating with OAuth2 (and OAuth1
+      with a oauth proxy) web services and querying their REST API's. HelloJS standardizes
+      paths and responses to common API's like Google Data Services, Facebook Graph
+      and Windows Live Connect. It's modular, so that list is growing.
+    is_article: '0'
+    is_index: '0'
+    has_video: '0'
+    has_image: '0'
+    word_count: '2123'
+  '746125133':
+    item_id: '746125133'
+    resolved_id: '746125133'
+    given_url: https://www.npmjs.org/package/exterminate
+    given_title: exterminate
+    favorite: '1'
+    status: '0'
+    time_added: '1414014383'
+    time_updated: '1414014549'
+    time_read: '0'
+    time_favorited: '1414014549'
+    sort_id: 24
+    resolved_title: exterminate
+    resolved_url: https://www.npmjs.org/package/exterminate
+    excerpt: Just type exterminate. You will be in a graphical shell just like xterm
+      or gnome-terminal, except running with chrome using --app.  You can render any
+      html you want on the terminal! Here's some javascript and html that parses the
+      query string and renders it... in comic sans!
+    is_article: '1'
+    is_index: '1'
+    has_video: '0'
+    has_image: '1'
+    word_count: '208'
+    image:
+      item_id: '746125133'
+      src: http://substack.net/images/screenshots/exterminate.png
+      width: '0'
+      height: '0'
+    images:
+      '1':
+        item_id: '746125133'
+        image_id: '1'
+        src: http://substack.net/images/screenshots/exterminate.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '2':
+        item_id: '746125133'
+        image_id: '2'
+        src: http://substack.net/images/screenshots/exterminate_comic_sans.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+  '55507692':
+    item_id: '55507692'
+    resolved_id: '55507692'
+    given_url: http://addyosmani.com/resources/essentialjsdesignpatterns/book/#detailcommonjs
+    given_title: Learning JavaScript Design Patterns
+    favorite: '0'
+    status: '0'
+    time_added: '1414013155'
+    time_updated: '1414013165'
+    time_read: '0'
+    time_favorited: '0'
+    sort_id: 25
+    resolved_title: Learning JavaScript Design Patterns
+    resolved_url: http://addyosmani.com/resources/essentialjsdesignpatterns/book/
+    excerpt: Design patterns are reusable solutions to commonly occurring problems
+      in software design. They are both exciting and a fascinating topic to explore
+      in any programming language.
+    is_article: '1'
+    is_index: '0'
+    has_video: '0'
+    has_image: '1'
+    word_count: '53224'
+    tags:
+      dev:
+        item_id: '55507692'
+        tag: dev
+      javascript:
+        item_id: '55507692'
+        tag: javascript
+    authors:
+      '1930830':
+        item_id: '55507692'
+        author_id: '1930830'
+        name: photoEl
+        url: ''
+    image:
+      item_id: '55507692'
+      src: http://addyosmani.com/resources/essentialjsdesignpatterns/cover/cover.jpg
+      width: '300'
+      height: '0'
+    images:
+      '1':
+        item_id: '55507692'
+        image_id: '1'
+        src: http://addyosmani.com/resources/essentialjsdesignpatterns/cover/cover.jpg
+        width: '300'
+        height: '0'
+        credit: ''
+        caption: ''
+      '2':
+        item_id: '55507692'
+        image_id: '2'
+        src: http://addyosmani.com/resources/essentialjsdesignpatterns/book/images/ns1.png
+        width: '520'
+        height: '0'
+        credit: ''
+        caption: ''
+  '600325276':
+    item_id: '600325276'
+    resolved_id: '600325276'
+    given_url: https://github.com/KirillTemnov/node-pocket
+    given_title: ''
+    favorite: '1'
+    status: '1'
+    time_added: '1413994718'
+    time_updated: '1414041518'
+    time_read: '1414041519'
+    time_favorited: '1414023090'
+    sort_id: 26
+    resolved_title: KirillTemnov/node-pocket · GitHub
+    resolved_url: https://github.com/KirillTemnov/node-pocket
+    excerpt: For using this wrapper you need to create Pocket class instanse from
+      main module, passing to it valid consumer_key and access_token fetched from
+      user.  First of all we need to get request token, by calling getRequestToken.
+      The url key must contain valid callback url for our application.
+    is_article: '1'
+    is_index: '0'
+    has_video: '0'
+    has_image: '0'
+    word_count: '525'
+    tags:
+      pocket:
+        item_id: '600325276'
+        tag: pocket
+  '353492357':
+    item_id: '353492357'
+    resolved_id: '353492357'
+    given_url: https://github.com/akoenig/jutebag
+    given_title: ''
+    favorite: '0'
+    status: '1'
+    time_added: '1413993291'
+    time_updated: '1414041519'
+    time_read: '1414041520'
+    time_favorited: '0'
+    sort_id: 27
+    resolved_title: akoenig/jutebag · GitHub
+    resolved_url: https://github.com/akoenig/jutebag
+    excerpt: A command line interface for the incredible Pocket a.k.a. getpocket.com
+      a.k.a. Read It Later service.  The Pocket authentication process. In order to
+      interact with the Pocket service we have to do a handshake first.
+    is_article: '1'
+    is_index: '1'
+    has_video: '0'
+    has_image: '0'
+    word_count: '298'
+    tags:
+      pocket:
+        item_id: '353492357'
+        tag: pocket
+  '319161905':
+    item_id: '319161905'
+    resolved_id: '319161905'
+    given_url: https://www.npmjs.org/package/jutebag
+    given_title: jutebag
+    favorite: '0'
+    status: '1'
+    time_added: '1413993142'
+    time_updated: '1414041521'
+    time_read: '1414041522'
+    time_favorited: '0'
+    sort_id: 28
+    resolved_title: jutebag
+    resolved_url: http://npmjs.org/package/jutebag
+    excerpt: A command line interface for the incredible Pocket a.k.a. getpocket.com
+      a.k.a. Read It Later service.  The Pocket authentication process. In order to
+      interact with the Pocket service we have to do a handshake first.
+    is_article: '1'
+    is_index: '1'
+    has_video: '0'
+    has_image: '0'
+    word_count: '146'
+    tags:
+      pocket:
+        item_id: '319161905'
+        tag: pocket
+  '466456778':
+    item_id: '466456778'
+    resolved_id: '504620761'
+    given_url: http://www.businessinsider.com/business-titans-who-overcame-dyslexia-2013-10?op=1
+    given_title: Richard Branson
+    favorite: '0'
+    status: '0'
+    time_added: '1413986022'
+    time_updated: '1413991598'
+    time_read: '0'
+    time_favorited: '0'
+    sort_id: 29
+    resolved_title: 17 Business Titans Who Overcame Dyslexia
+    resolved_url: http://www.businessinsider.com/business-titans-who-overcame-dyslexia-2013-10?nr_email_referer=1&utm_content=emailshare&utm_medium=email&utm_source=Triggermail
+    excerpt: Does dyslexia come with hidden advantages?  Gladwell proposes that some
+      of the world's most accomplished people succeeded precisely because of this
+      disability. "Dyslexia — in the best of cases — forces you to develop skills
+      that might otherwise have lain dormant," he writes.
+    is_article: '1'
+    is_index: '0'
+    has_video: '0'
+    has_image: '1'
+    word_count: '1451'
+    authors:
+      '332712':
+        item_id: '466456778'
+        author_id: '332712'
+        name: Dylan Love
+        url: http://www.businessinsider.com/author/dylan-love
+      '12202656':
+        item_id: '466456778'
+        author_id: '12202656'
+        name: Alison Griswold
+        url: http://www.businessinsider.com/author/alison-griswold
+    image:
+      item_id: '466456778'
+      src: http://static3.businessinsider.com/image/526a983469bedd7e4ad5ba5c-480-/richard-branson-40.jpg
+      width: '480'
+      height: '0'
+    images:
+      '1':
+        item_id: '466456778'
+        image_id: '1'
+        src: http://static3.businessinsider.com/image/526a983469bedd7e4ad5ba5c-480-/richard-branson-40.jpg
+        width: '480'
+        height: '0'
+        credit: Paul Kane/Getty Images
+        caption: ''
+      '2':
+        item_id: '466456778'
+        image_id: '2'
+        src: http://static6.businessinsider.com/image/52682ef1eab8eac543473ee3-1200/richard-branson.jpg
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '3':
+        item_id: '466456778'
+        image_id: '3'
+        src: http://static3.businessinsider.com/image/5268318c6bb3f7ef45e18b41-1200/charles-schwab.jpg
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '4':
+        item_id: '466456778'
+        image_id: '4'
+        src: http://static6.businessinsider.com/image/526836d069bedd416c473ee3-1200/ted-turner.jpg
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '5':
+        item_id: '466456778'
+        image_id: '5'
+        src: http://static6.businessinsider.com/image/52683ee1ecad045063e49192-1200/tommy-hilfiger.jpg
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '6':
+        item_id: '466456778'
+        image_id: '6'
+        src: http://static5.businessinsider.com/image/4dd3f0c9ccd1d5b8040b0000-1200/bill-hewlett.jpg
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '7':
+        item_id: '466456778'
+        image_id: '7'
+        src: http://static3.businessinsider.com/image/52683381eab8eaaa4b473ee3-1200/john-reed.jpg
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '8':
+        item_id: '466456778'
+        image_id: '8'
+        src: http://static5.businessinsider.com/image/52682ff469bedde15d473ee6-1200/john-chambers.jpg
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '9':
+        item_id: '466456778'
+        image_id: '9'
+        src: http://static4.businessinsider.com/image/526a976869bedd404ad5ba58-1200/nancy-brinker.jpg
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '10':
+        item_id: '466456778'
+        image_id: '10'
+        src: http://static1.businessinsider.com/image/526837b5eab8ea5755473ee3-1200/ingvar-kamprad.jpg
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '11':
+        item_id: '466456778'
+        image_id: '11'
+        src: http://static6.businessinsider.com/image/4d07aea049e2ae4113140000-1200/henry-ford.jpg
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '12':
+        item_id: '466456778'
+        image_id: '12'
+        src: http://static2.businessinsider.com/image/526838b1ecad048b55e49197-1200/craig-mccaw.jpg
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '13':
+        item_id: '466456778'
+        image_id: '13'
+        src: http://static1.businessinsider.com/image/526a7724eab8ea64038a6e6b-1200/od-mckee.jpg
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '14':
+        item_id: '466456778'
+        image_id: '14'
+        src: http://static1.businessinsider.com/image/52683a5a6bb3f74757e18b40-1200/paul-orfalea.jpg
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '15':
+        item_id: '466456778'
+        image_id: '15'
+        src: http://static3.businessinsider.com/image/52696cf36bb3f7b929bc250e-1200/bill-samuels-jr.jpg
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '16':
+        item_id: '466456778'
+        image_id: '16'
+        src: http://static3.businessinsider.com/image/5268407e6bb3f78060e18b3f-1200/david-neeleman.jpg
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '17':
+        item_id: '466456778'
+        image_id: '17'
+        src: http://static5.businessinsider.com/image/52683fba69bedda37e473ee7-1200/gary-cohn.jpg
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '18':
+        item_id: '466456778'
+        image_id: '18'
+        src: http://static3.businessinsider.com/image/526aaa026bb3f7630548a0a3-1200/david-boies.jpg
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '19':
+        item_id: '466456778'
+        image_id: '19'
+        src: http://static2.businessinsider.com/image/526a86596bb3f7163ecd01b2-1200/now-see-who-bounced-back-from-being-fired.jpg
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+  '188293620':
+    item_id: '188293620'
+    resolved_id: '188293620'
+    given_url: http://www.businessweek.com/stories/2007-12-12/why-dyslexics-make-great-entrepreneursbusinessweek-business-news-stock-market-and-financial-advice
+    given_title: dyslexics in business
+    favorite: '1'
+    status: '0'
+    time_added: '1413986015'
+    time_updated: '1414124521'
+    time_read: '0'
+    time_favorited: '1414122614'
+    sort_id: 30
+    resolved_title: Why Dyslexics Make Great EntrepreneursBusinessweek - Business
+      News, Stock Market & Financial Advice
+    resolved_url: http://www.businessweek.com/stories/2007-12-12/why-dyslexics-make-great-entrepreneursbusinessweek-business-news-stock-market-and-financial-advice
+    excerpt: The ability to grasp the big picture, persistence, and creativity are
+      a few of the entrepreneurial traits of many dyslexics. Just ask Charles Schwab
+    is_article: '1'
+    is_index: '0'
+    has_video: '0'
+    has_image: '0'
+    word_count: '1263'
+    authors:
+      '3903343':
+        item_id: '188293620'
+        author_id: '3903343'
+        name: Gabrielle Coppola
+        url: http://www.businessweek.com/authors/46660-gabrielle-coppola
+  '682812854':
+    item_id: '682812854'
+    resolved_id: '682812854'
+    given_url: http://www.uxcompanion.com/
+    given_title: this
+    favorite: '0'
+    status: '0'
+    time_added: '1413985478'
+    time_updated: '1413991598'
+    time_read: '0'
+    time_favorited: '0'
+    sort_id: 31
+    resolved_title: UX Companion | User experience design tools | Cyber-Duck
+    resolved_url: http://www.uxcompanion.com/
+    excerpt: Cyber-Duck are an award winning digital agency in Hertfordshire with
+      an accredited design process and expert technical capabilities.  Established
+      in 2005, we work with exciting start-ups and global brands, including Eurofighter
+      Typhoon, GSK, Maxinutrition, The European Union and Arsenal FC.
+    is_article: '0'
+    is_index: '1'
+    has_video: '0'
+    has_image: '1'
+    word_count: '196'
+    image:
+      item_id: '682812854'
+      src: http://www.uxcompanion.com/images/phone-white.png
+      width: '0'
+      height: '0'
+    images:
+      '1':
+        item_id: '682812854'
+        image_id: '1'
+        src: http://www.uxcompanion.com/images/phone-white.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '2':
+        item_id: '682812854'
+        image_id: '2'
+        src: http://www.uxcompanion.com/images/phone1.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '4':
+        item_id: '682812854'
+        image_id: '4'
+        src: http://www.uxcompanion.com/images/phone2.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '5':
+        item_id: '682812854'
+        image_id: '5'
+        src: http://www.uxcompanion.com/images/phone3.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+  '552748189':
+    item_id: '552748189'
+    resolved_id: '552748189'
+    given_url: http://articulos.softonic.com/infografia-grandes-sistemas-internet-2014
+    given_title: Mira la infografía
+    favorite: '0'
+    status: '1'
+    time_added: '1413956747'
+    time_updated: '1414124101'
+    time_read: '1414124079'
+    time_favorited: '0'
+    sort_id: 32
+    resolved_title: 'Infografía: los 6 sistemas planetarios de Internet en 2014'
+    resolved_url: http://articulos.softonic.com/infografia-grandes-sistemas-internet-2014
+    excerpt: Si los grandes de Internet fuesen soles y sus apps, planetas, así es
+      como se vería la galaxia de Internet en 2014. Ahora solo queda preguntarse cuándo
+      empezará la guerra estelar...  Con la compra de WhatsApp, Facebook ha reforzado
+      su imperio.
+    is_article: '1'
+    is_index: '0'
+    has_video: '0'
+    has_image: '1'
+    word_count: '101'
+    tags:
+      techonomics:
+        item_id: '552748189'
+        tag: techonomics
+    image:
+      item_id: '552748189'
+      src: http://imagenes.es.sftcdn.net/blog/es/2014/02/Infographic-ES4-568x1421.jpg
+      width: '568'
+      height: '1421'
+    images:
+      '1':
+        item_id: '552748189'
+        image_id: '1'
+        src: http://imagenes.es.sftcdn.net/blog/es/2014/02/Infographic-ES4-568x1421.jpg
+        width: '568'
+        height: '1421'
+        credit: ''
+        caption: ''
+  '651987072':
+    item_id: '651987072'
+    resolved_id: '651987072'
+    given_url: http://www.theverge.com/2014/6/26/5845138/choose-your-religion-iphone-or-android
+    given_title: Leer el artículo en The Verge
+    favorite: '0'
+    status: '1'
+    time_added: '1413956509'
+    time_updated: '1414124114'
+    time_read: '1414123436'
+    time_favorited: '0'
+    sort_id: 33
+    resolved_title: 'iPhone or Android: it''s time to choose your religion'
+    resolved_url: http://www.theverge.com/2014/6/26/5845138/choose-your-religion-iphone-or-android
+    excerpt: It’s impossible for Google or Apple to introduce a new feature, let alone
+      a whole new revision, to their mobile operating systems without it instantly
+      being compared to the other’s alternative.
+    is_article: '1'
+    is_index: '0'
+    has_video: '1'
+    has_image: '1'
+    word_count: '1126'
+    tags:
+      techonomics:
+        item_id: '651987072'
+        tag: techonomics
+    authors:
+      '2477252':
+        item_id: '651987072'
+        author_id: '2477252'
+        name: Vlad Savov
+        url: http://www.theverge.com/users/vladislav
+    image:
+      item_id: '651987072'
+      src: http://cdn1.vox-cdn.com/campaigns_images/31688/77056544_954599123_comcast_logo_white.png
+      width: '0'
+      height: '0'
+    images:
+      '1':
+        item_id: '651987072'
+        image_id: '1'
+        src: http://cdn1.vox-cdn.com/campaigns_images/31688/77056544_954599123_comcast_logo_white.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '2':
+        item_id: '651987072'
+        image_id: '2'
+        src: http://f.curbed.cc/p/Comcast_Harmony_3_101714_SponsoredLink.gif?
+        width: '1'
+        height: '1'
+        credit: ''
+        caption: ''
+    videos:
+      '1':
+        item_id: '651987072'
+        video_id: '1'
+        src: "//www.youtube-nocookie.com/embed/d36cIFCJvQs?rel=0"
+        width: '560'
+        height: '315'
+        type: '1'
+        vid: d36cIFCJvQs
+      '2':
+        item_id: '651987072'
+        video_id: '2'
+        src: "//www.youtube-nocookie.com/embed/xTjejvnBJfU?rel=0"
+        width: '560'
+        height: '315'
+        type: '1'
+        vid: xTjejvnBJfU
+  '739755109':
+    item_id: '739755109'
+    resolved_id: '739755109'
+    given_url: http://googlenews.gkvasnikov.com/
+    given_title: ''
+    favorite: '0'
+    status: '0'
+    time_added: '1413954600'
+    time_updated: '1413954675'
+    time_read: '0'
+    time_favorited: '0'
+    sort_id: 34
+    resolved_title: ''
+    resolved_url: http://googlenews.gkvasnikov.com/
+    excerpt: News is a direct tool of influence on public consciousness. The goal
+      of the news is to provide to the society objective information about a particular
+      event or action.
+    is_article: '0'
+    is_index: '1'
+    has_video: '1'
+    has_image: '1'
+    word_count: '820'
+    tags:
+      ux:
+        item_id: '739755109'
+        tag: ux
+    image:
+      item_id: '739755109'
+      src: http://googlenews.gkvasnikov.com/img/photo.png
+      width: '0'
+      height: '0'
+    images:
+      '1':
+        item_id: '739755109'
+        image_id: '1'
+        src: http://googlenews.gkvasnikov.com/img/photo.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '2':
+        item_id: '739755109'
+        image_id: '2'
+        src: http://googlenews.gkvasnikov.com/img/behance.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '3':
+        item_id: '739755109'
+        image_id: '3'
+        src: http://googlenews.gkvasnikov.com/img/behance-hover.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '4':
+        item_id: '739755109'
+        image_id: '4'
+        src: http://googlenews.gkvasnikov.com/img/research-analysis.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '5':
+        item_id: '739755109'
+        image_id: '5'
+        src: http://googlenews.gkvasnikov.com/img/research-user-cases.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '6':
+        item_id: '739755109'
+        image_id: '6'
+        src: http://googlenews.gkvasnikov.com/img/research-features.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '7':
+        item_id: '739755109'
+        image_id: '7'
+        src: http://googlenews.gkvasnikov.com/img/research-user-scenarios.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '8':
+        item_id: '739755109'
+        image_id: '8'
+        src: http://googlenews.gkvasnikov.com/img/mood.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '9':
+        item_id: '739755109'
+        image_id: '9'
+        src: http://googlenews.gkvasnikov.com/img/typography-1.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '10':
+        item_id: '739755109'
+        image_id: '10'
+        src: http://googlenews.gkvasnikov.com/img/typography-2.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '11':
+        item_id: '739755109'
+        image_id: '11'
+        src: http://googlenews.gkvasnikov.com/img/design-desktop.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: |2+
+
+
+          Design
+
+      '12':
+        item_id: '739755109'
+        image_id: '12'
+        src: http://googlenews.gkvasnikov.com/img/design-home.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '13':
+        item_id: '739755109'
+        image_id: '13'
+        src: http://googlenews.gkvasnikov.com/img/design-home-scroll.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '14':
+        item_id: '739755109'
+        image_id: '14'
+        src: http://googlenews.gkvasnikov.com/img/design-favorites.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '15':
+        item_id: '739755109'
+        image_id: '15'
+        src: http://googlenews.gkvasnikov.com/img/design-new-category.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '16':
+        item_id: '739755109'
+        image_id: '16'
+        src: http://googlenews.gkvasnikov.com/img/cover-browse.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '17':
+        item_id: '739755109'
+        image_id: '17'
+        src: http://googlenews.gkvasnikov.com/img/cover-coverage-1.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '18':
+        item_id: '739755109'
+        image_id: '18'
+        src: http://googlenews.gkvasnikov.com/img/cover-coverage-2.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '19':
+        item_id: '739755109'
+        image_id: '19'
+        src: http://googlenews.gkvasnikov.com/img/cover-overview.jpg
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '20':
+        item_id: '739755109'
+        image_id: '20'
+        src: http://googlenews.gkvasnikov.com/img/usability-article-view.jpg
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '21':
+        item_id: '739755109'
+        image_id: '21'
+        src: http://googlenews.gkvasnikov.com/img/usability-add-content.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '22':
+        item_id: '739755109'
+        image_id: '22'
+        src: http://googlenews.gkvasnikov.com/img/mobile-5.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '23':
+        item_id: '739755109'
+        image_id: '23'
+        src: http://googlenews.gkvasnikov.com/img/mobile-6.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+    videos:
+      '1':
+        item_id: '739755109'
+        video_id: '1'
+        src: "//player.vimeo.com/video/107937123?title=0&byline=0&portrait=0"
+        width: '0'
+        height: '0'
+        type: '4'
+        vid: '107937123'
+      '2':
+        item_id: '739755109'
+        video_id: '2'
+        src: "//player.vimeo.com/video/107937123?title=0&byline=0&portrait=0"
+        width: '0'
+        height: '0'
+        type: '4'
+        vid: '107937123'
+  '744017378':
+    item_id: '744017378'
+    resolved_id: '744017382'
+    given_url: http://it-ebooks.info/book/3890/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+IT-eBooks+%28Free+Download+IT+eBooks%29
+    given_title: ''
+    favorite: '0'
+    status: '0'
+    time_added: '1413954005'
+    time_updated: '1413954661'
+    time_read: '0'
+    time_favorited: '0'
+    sort_id: 35
+    resolved_title: 'AngularJS: Up and Running'
+    resolved_url: http://it-ebooks.info/book/3890/
+    excerpt: Guided by two engineers who worked on AngularJS at Google, you'll learn
+      the components needed to build data-driven applications, using declarative programming
+      and the Model–view–controller pattern. You'll also learn how to conduct unit
+      tests on each part of your application.
+    is_article: '1'
+    is_index: '0'
+    has_video: '0'
+    has_image: '1'
+    word_count: '106'
+    tags:
+      angularjs:
+        item_id: '744017378'
+        tag: angularjs
+    authors:
+      '25318190':
+        item_id: '744017378'
+        author_id: '25318190'
+        name: Shyam Seshadri
+        url: http://it-ebooks.info/author/2685/
+    image:
+      item_id: '744017378'
+      src: http://it-ebooks.info/images/ebooks/3/angularjs_up_and_running.jpg
+      width: '200'
+      height: '0'
+    images:
+      '1':
+        item_id: '744017378'
+        image_id: '1'
+        src: http://it-ebooks.info/images/ebooks/3/angularjs_up_and_running.jpg
+        width: '200'
+        height: '0'
+        credit: ''
+        caption: ''
+      '2':
+        item_id: '744017378'
+        image_id: '2'
+        src: http://chart.apis.google.com/chart?cht=qr&chs=150x150&chl=http://it-ebooks.info/book/3890/
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+  '744017328':
+    item_id: '744017328'
+    resolved_id: '744017339'
+    given_url: http://it-ebooks.info/book/3886/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+IT-eBooks+%28Free+Download+IT+eBooks%29
+    given_title: ''
+    favorite: '0'
+    status: '0'
+    time_added: '1413953987'
+    time_updated: '1413954667'
+    time_read: '0'
+    time_favorited: '0'
+    sort_id: 36
+    resolved_title: Introducing Elixir
+    resolved_url: http://it-ebooks.info/book/3886/
+    excerpt: This book shows you how to write simple Elixir programs by teaching one
+      skill at a time. Once you pick up pattern matching, process-oriented programming,
+      and other concepts, you'll understand why Elixir makes it easier to build concurrent
+      and resilient programs that scale up and down with ease.
+    is_article: '1'
+    is_index: '0'
+    has_video: '0'
+    has_image: '1'
+    word_count: '106'
+    tags:
+      functional:
+        item_id: '744017328'
+        tag: functional
+    authors:
+      '9492141':
+        item_id: '744017328'
+        author_id: '9492141'
+        name: Simon St. Laurent
+        url: http://it-ebooks.info/author/1302/
+    image:
+      item_id: '744017328'
+      src: http://it-ebooks.info/images/ebooks/3/introducing_elixir.jpg
+      width: '200'
+      height: '0'
+    images:
+      '1':
+        item_id: '744017328'
+        image_id: '1'
+        src: http://it-ebooks.info/images/ebooks/3/introducing_elixir.jpg
+        width: '200'
+        height: '0'
+        credit: ''
+        caption: ''
+      '2':
+        item_id: '744017328'
+        image_id: '2'
+        src: http://chart.apis.google.com/chart?cht=qr&chs=150x150&chl=http://it-ebooks.info/book/3886/
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+  '744040623':
+    item_id: '744040623'
+    resolved_id: '744040623'
+    given_url: http://code.tutsplus.com/articles/getting-up-to-speed-with-xcode-6--cms-22287
+    given_title: ''
+    favorite: '0'
+    status: '0'
+    time_added: '1413953883'
+    time_updated: '1413954692'
+    time_read: '0'
+    time_favorited: '0'
+    sort_id: 37
+    resolved_title: Getting Up to Speed With Xcode 6
+    resolved_url: http://code.tutsplus.com/articles/getting-up-to-speed-with-xcode-6--cms-22287
+    excerpt: Each release of Xcode presents developers with enhanced tools to help
+      building their apps. This year's release, Xcode 6, introduces new ways for developers
+      to design and build their software.
+    is_article: '1'
+    is_index: '0'
+    has_video: '0'
+    has_image: '1'
+    word_count: '2562'
+    tags:
+      ios:
+        item_id: '744040623'
+        tag: ios
+    authors:
+      '19719120':
+        item_id: '744040623'
+        author_id: '19719120'
+        name: Joyce Echessa
+        url: http://tutsplus.com/authors/joyce-echessa
+    image:
+      item_id: '744040623'
+      src: https://cms-assets.tutsplus.com/uploads/users/279/posts/22287/image/xcode-playground.jpg
+      width: '0'
+      height: '0'
+    images:
+      '1':
+        item_id: '744040623'
+        image_id: '1'
+        src: https://cms-assets.tutsplus.com/uploads/users/279/posts/22287/image/xcode-playground.jpg
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '2':
+        item_id: '744040623'
+        image_id: '2'
+        src: https://cms-assets.tutsplus.com/uploads/users/279/posts/22287/image/xcode-size-class-control.jpg
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '3':
+        item_id: '744040623'
+        image_id: '3'
+        src: https://cms-assets.tutsplus.com/uploads/users/279/posts/22287/image/xcode-segue-types.jpg
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '4':
+        item_id: '744040623'
+        image_id: '4'
+        src: https://cms-assets.tutsplus.com/uploads/users/279/posts/22287/image/xcode-preview-editor.jpg
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '5':
+        item_id: '744040623'
+        image_id: '5'
+        src: https://cms-assets.tutsplus.com/uploads/users/41/posts/22287/image/figure-xcode6.jpg
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '6':
+        item_id: '744040623'
+        image_id: '6'
+        src: https://cms-assets.tutsplus.com/uploads/users/279/posts/22287/image/xcode-debug-view-button.jpg
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '7':
+        item_id: '744040623'
+        image_id: '7'
+        src: https://cms-assets.tutsplus.com/uploads/users/279/posts/22287/image/xcode-live-view.jpg
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '8':
+        item_id: '744040623'
+        image_id: '8'
+        src: https://cms-assets.tutsplus.com/uploads/users/279/posts/22287/image/xcode-debug-view-states.jpg
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '9':
+        item_id: '744040623'
+        image_id: '9'
+        src: https://cms-assets.tutsplus.com/uploads/users/279/posts/22287/image/xcode-debug-gauges.jpg
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '10':
+        item_id: '744040623'
+        image_id: '10'
+        src: https://cms-assets.tutsplus.com/uploads/users/279/posts/22287/image/xcode-network-activity.jpg
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '11':
+        item_id: '744040623'
+        image_id: '11'
+        src: https://cms-assets.tutsplus.com/uploads/users/279/posts/22287/image/xcode-file-activity.jpg
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '12':
+        item_id: '744040623'
+        image_id: '12'
+        src: https://cms-assets.tutsplus.com/uploads/users/279/posts/22287/image/xcode-launch-images.jpg
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '13':
+        item_id: '744040623'
+        image_id: '13'
+        src: https://cms-assets.tutsplus.com/uploads/users/279/posts/22287/image/xcode-instruments.jpg
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+  '738607632':
+    item_id: '738607632'
+    resolved_id: '738607632'
+    given_url: http://www.youtube.com/watch?v=w8J5BWL8oJY
+    given_title: 'The synthesis of imagination: Rony Abovitz and Magic Leap at TEDxSarasota
+      -'
+    favorite: '0'
+    status: '1'
+    time_added: '1413953688'
+    time_updated: '1413991598'
+    time_read: '1413956250'
+    time_favorited: '0'
+    sort_id: 38
+    resolved_title: 'The synthesis of imagination: Rony Abovitz and Magic Leap at
+      TEDxSarasota'
+    resolved_url: http://www.youtube.com/watch?v=w8J5BWL8oJY
+    excerpt: 'Surprises abound in this multimedia, surrealist talk/performance by
+      Rony Abovitz and Magic Leap at TEDxSarasota.  Rony is a recognized innovator
+      and entrepreneur, having co-founded  the pioneering robotics company, MAKO Surgical
+      Corp, which was recognized by Deloitte as the #1 fastest growing tech c'
+    is_article: '0'
+    is_index: '0'
+    has_video: '2'
+    has_image: '1'
+    word_count: '0'
+    tags:
+      ifttt:
+        item_id: '738607632'
+        tag: ifttt
+      youtube:
+        item_id: '738607632'
+        tag: youtube
+    image:
+      item_id: '738607632'
+      src: http://img.youtube.com/vi/w8J5BWL8oJY/0.jpg
+      width: '480'
+      height: '360'
+    images:
+      '1':
+        item_id: '738607632'
+        image_id: '1'
+        src: http://img.youtube.com/vi/w8J5BWL8oJY/0.jpg
+        width: '480'
+        height: '360'
+        credit: ''
+        caption: ''
+    videos:
+      '1':
+        item_id: '738607632'
+        video_id: '1'
+        src: http://www.youtube.com/v/w8J5BWL8oJY
+        width: '0'
+        height: '0'
+        type: '1'
+        vid: w8J5BWL8oJY
+  '744569511':
+    item_id: '744569511'
+    resolved_id: '744569518'
+    given_url: http://www.webappers.com/2014/10/21/l20n-localization-framework-developed-mozilla/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Webappers+%28WebAppers%29
+    given_title: ''
+    favorite: '0'
+    status: '0'
+    time_added: '1413953678'
+    time_updated: '1413953677'
+    time_read: '0'
+    time_favorited: '0'
+    sort_id: 39
+    resolved_title: L20n – Localization Framework Developed by Mozilla
+    resolved_url: http://www.webappers.com/2014/10/21/l20n-localization-framework-developed-mozilla/
+    excerpt: L20n is a localization framework developed by Mozilla for the Web. It
+      allows localizers to put small bits of logic into localization resources to
+      codify the grammar of the language.
+    is_article: '1'
+    is_index: '0'
+    has_video: '0'
+    has_image: '1'
+    word_count: '117'
+    image:
+      item_id: '744569511'
+      src: http://maxcdn.webappers.com/img/2014/10/l20n.jpg
+      width: '726'
+      height: '533'
+    images:
+      '1':
+        item_id: '744569511'
+        image_id: '1'
+        src: http://maxcdn.webappers.com/img/2014/10/l20n.jpg
+        width: '726'
+        height: '533'
+        credit: ''
+        caption: ''
+  '744073451':
+    item_id: '744073451'
+    resolved_id: '744073451'
+    given_url: http://getpocket.com/blog/2014/10/pocket-for-mac-is-ready-for-yosemite-with-handoff-a-fresh-new-design-and-more/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+ReadItLaterBlog+%28Read+It+Later+Blog%29
+    given_title: ''
+    favorite: '0'
+    status: '1'
+    time_added: '1413953466'
+    time_updated: '1413991679'
+    time_read: '1413954866'
+    time_favorited: '0'
+    sort_id: 40
+    resolved_title: Pocket for Mac is Ready for Yosemite with Handoff, a Fresh New
+      Design, and More
+    resolved_url: http://getpocket.com/blog/2014/10/pocket-for-mac-is-ready-for-yosemite-with-handoff-a-fresh-new-design-and-more/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+ReadItLaterBlog+%28Read+It+Later+Blog%29
+    excerpt: Today, we’re thrilled to announce Pocket for Mac 1.6, our largest update
+      to our Mac app in over a year! Pocket 1.
+    is_article: '1'
+    is_index: '0'
+    has_video: '0'
+    has_image: '1'
+    word_count: '416'
+    tags:
+      tips:
+        item_id: '744073451'
+        tag: tips
+    image:
+      item_id: '744073451'
+      src: http://pocket-blog.s3.amazonaws.com/20141020/PKTBlog_MacUpdate_0000_Header.png
+      width: '0'
+      height: '0'
+    images:
+      '1':
+        item_id: '744073451'
+        image_id: '1'
+        src: http://pocket-blog.s3.amazonaws.com/20141020/PKTBlog_MacUpdate_0000_Header.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '2':
+        item_id: '744073451'
+        image_id: '2'
+        src: http://pocket-blog.s3.amazonaws.com/20141020/PKTBlog_MacUpdate_0001_Design.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '3':
+        item_id: '744073451'
+        image_id: '3'
+        src: http://pocket-blog.s3.amazonaws.com/20141020/PKTBlog_MacUpdate_0002_Tags.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+  '745072352':
+    item_id: '745072352'
+    resolved_id: '745070227'
+    given_url: http://www.theatlantic.com/business/archive/2014/10/what-it-took-for-spacex-to-become-a-serious-space-company/381724/?single_page=true
+    given_title: What It Took for SpaceX to Become a Serious Space Company - The Atlantic
+    favorite: '1'
+    status: '0'
+    time_added: '1413953300'
+    time_updated: '1414162585'
+    time_read: '0'
+    time_favorited: '1413956297'
+    sort_id: 41
+    resolved_title: What It Took for SpaceX to Become a Serious Space Company
+    resolved_url: http://www.theatlantic.com/business/archive/2014/10/what-it-took-for-spacex-to-become-a-serious-space-company/381724/
+    excerpt: It simply needed to disrupt Boeing and leapfrog NASA. The Space Exploration
+      Technology rocket factory is a large, white hangar-like building near Los Angeles
+      international airport, with a parking lot filled with late-model motorcycles
+      and Tesla electric cars.
+    is_article: '1'
+    is_index: '0'
+    has_video: '0'
+    has_image: '1'
+    word_count: '5878'
+    authors:
+      '7414349':
+        item_id: '745072352'
+        author_id: '7414349'
+        name: Tim Fernholz
+        url: http://www.theatlantic.com/tim-fernholz/
+    image:
+      item_id: '745072352'
+      src: http://cdn.theatlantic.com/static/newsroom/img/mt/2014/10/tankland/lead.jpg?ndv52i
+      width: '570'
+      height: '321'
+    images:
+      '1':
+        item_id: '745072352'
+        image_id: '1'
+        src: http://cdn.theatlantic.com/static/newsroom/img/mt/2014/10/tankland/lead.jpg?ndv52i
+        width: '570'
+        height: '321'
+        credit: "\n                                SpaceX            "
+        caption: ''
+      '2':
+        item_id: '745072352'
+        image_id: '2'
+        src: http://cdn.theatlantic.com/newsroom/img/posts/2014/10/spacex_photo_2/cfdbba1cc.jpg
+        width: '570'
+        height: '321'
+        credit: SpaceX
+        caption: SpaceX's flagship Falcon 9 rocket
+      '3':
+        item_id: '745072352'
+        image_id: '3'
+        src: http://cdn.theatlantic.com/newsroom/img/posts/2014/10/spacex_photo_3/2fdc91d99.jpg
+        width: '570'
+        height: '321'
+        credit: SpaceX
+        caption: The nine merlin engines that power a SpaceX rocket
+      '4':
+        item_id: '745072352'
+        image_id: '4'
+        src: http://cdn.theatlantic.com/newsroom/img/posts/2014/10/spacex_photo_4/88ef107d7.jpg
+        width: '570'
+        height: '356'
+        credit: Bill Ingalls/Reuters
+        caption: Elon Musk with Nasa's current administrator, Charles Bolden
+      '5':
+        item_id: '745072352'
+        image_id: '5'
+        src: http://cdn.theatlantic.com/newsroom/img/posts/2014/10/spacex_photo_5/e0cd51695.jpg
+        width: '570'
+        height: '855'
+        credit: ''
+        caption: ''
+      '6':
+        item_id: '745072352'
+        image_id: '6'
+        src: http://cdn.theatlantic.com/newsroom/img/posts/2014/10/spacex_photo_6/06e480d18.jpg
+        width: '570'
+        height: '321'
+        credit: SpaceX
+        caption: The Dragon spacecraft docked with the International Space Station
+      '7':
+        item_id: '745072352'
+        image_id: '7'
+        src: http://cdn.theatlantic.com/newsroom/img/posts/2014/10/spacex_photo_7/93a6b4deb.jpg
+        width: '570'
+        height: '321'
+        credit: SpaceX
+        caption: The touchscreen controls in the cockpit of the future
+  '744751364':
+    item_id: '744751364'
+    resolved_id: '744751364'
+    given_url: http://www.businessinsider.com/magic-leap-google-investment-2014-10
+    given_title: Magic Leap Google Investment - Business Insider
+    favorite: '0'
+    status: '1'
+    time_added: '1413952987'
+    time_updated: '1413991595'
+    time_read: '1413956181'
+    time_favorited: '0'
+    sort_id: 42
+    resolved_title: Google Is Leading A $542 Million Investment In Magic Leap, A Crazy-Sounding
+      Startup Building A New Way To See The World
+    resolved_url: http://www.businessinsider.com/magic-leap-google-investment-2014-10
+    excerpt: Google has led a $542 million investment in Magic Leap, a technology
+      startup based in Florida, the company announced Tuesday morning.  Magic Leap
+      is a stealth company that describes itself as being a "developer of novel human
+      computing interfaces and software.
+    is_article: '1'
+    is_index: '0'
+    has_video: '1'
+    has_image: '1'
+    word_count: '983'
+    authors:
+      '617':
+        item_id: '744751364'
+        author_id: '617'
+        name: Jay Yarow
+        url: http://www.businessinsider.com/author/jay-yarow
+      '4436719':
+        item_id: '744751364'
+        author_id: '4436719'
+        name: Jillian D'Onfro
+        url: http://www.businessinsider.com/author/jillian-donfro
+    image:
+      item_id: '744751364'
+      src: http://static6.businessinsider.com/image/543d0246ecad04d4678e9628-960/screen%20shot%202014-10-14%20at%206.37.38%20am.png
+      width: '0'
+      height: '0'
+    images:
+      '1':
+        item_id: '744751364'
+        image_id: '1'
+        src: http://static6.businessinsider.com/image/543d0246ecad04d4678e9628-960/screen%20shot%202014-10-14%20at%206.37.38%20am.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '2':
+        item_id: '744751364'
+        image_id: '2'
+        src: http://static2.businessinsider.com/image/543d02466da8112d4f9f1591-960/screen%20shot%202014-10-14%20at%206.36.54%20am.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '3':
+        item_id: '744751364'
+        image_id: '3'
+        src: http://static6.businessinsider.com/image/543d0244ecad042e688e9620-960/screen%20shot%202014-10-14%20at%206.37.17%20am.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '4':
+        item_id: '744751364'
+        image_id: '4'
+        src: http://static6.businessinsider.com/image/543d0c46ecad04da148e9622-960/screen%20shot%202014-10-14%20at%207.41.44%20am.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '5':
+        item_id: '744751364'
+        image_id: '5'
+        src: http://static5.businessinsider.com/image/543cfbb76bb3f70a6182c87c-960/screen%20shot%202014-10-14%20at%206.27.15%20am.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: Magic Leap CEO Rony Abovitz.
+      '6':
+        item_id: '744751364'
+        image_id: '6'
+        src: http://static1.businessinsider.com/image/543d4412ecad0471758e9625-960/screen%20shot%202014-10-14%20at%2011.36.07%20am.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '7':
+        item_id: '744751364'
+        image_id: '7'
+        src: http://static4.businessinsider.com/image/543d02466da8111b609f1584-960/screen%20shot%202014-10-14%20at%206.37.52%20am.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '8':
+        item_id: '744751364'
+        image_id: '8'
+        src: http://static6.businessinsider.com/image/543cfbb86da811f63d9f1586-960/screen%20shot%202014-10-14%20at%206.09.06%20am.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '9':
+        item_id: '744751364'
+        image_id: '9'
+        src: http://static6.businessinsider.com/image/543cfbb86bb3f72d6e82c87b-960/screen%20shot%202014-10-14%20at%206.08.32%20am.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '10':
+        item_id: '744751364'
+        image_id: '10'
+        src: http://static4.businessinsider.com/image/543cfbb5eab8ea65068e9621-960/screen%20shot%202014-10-14%20at%206.10.28%20am.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+    videos:
+      '1':
+        item_id: '744751364'
+        video_id: '1'
+        src: "//www.youtube.com/embed/w8J5BWL8oJY?rel=0"
+        width: '800'
+        height: '450'
+        type: '1'
+        vid: w8J5BWL8oJY
+      '2':
+        item_id: '744751364'
+        video_id: '2'
+        src: http://video.businessinsider.com/89a504d3-9f2c-4f7f-ab4e-321de1e37bc7.mp4
+        width: '1171'
+        height: '675'
+        type: '5'
+        vid: ''
+  '744708228':
+    item_id: '744708228'
+    resolved_id: '744708228'
+    given_url: http://blogs.wsj.com/digits/2014/10/21/google-leads-542-million-deal-in-secretive-startup-magic-leap/
+    given_title: Google Leads $542 Million Deal in Secretive Startup Magic Leap -
+      Digits - W
+    favorite: '0'
+    status: '1'
+    time_added: '1413952957'
+    time_updated: '1413991597'
+    time_read: '1413956208'
+    time_favorited: '0'
+    sort_id: 43
+    resolved_title: Google Leads $542 Million Deal in Secretive Startup Magic Leap
+    resolved_url: http://blogs.wsj.com/digits/2014/10/21/google-leads-542-million-deal-in-secretive-startup-magic-leap/
+    excerpt: Google Inc. is hedging its bets as it prepares for a future when our
+      laptops and smartphones will be antiquated technology.  In one of the largest
+      venture-capital deals on record, the tech giant and a slew of well-heeled firms
+      are investing $542 million in Magic Leap Inc.
+    is_article: '1'
+    is_index: '0'
+    has_video: '0'
+    has_image: '1'
+    word_count: '1003'
+    authors:
+      '15656055':
+        item_id: '744708228'
+        author_id: '15656055'
+        name: Biography
+        url: http://online.wsj.com/news/author/7559
+    image:
+      item_id: '744708228'
+      src: http://si.wsj.net/public/resources/images/BN-FC568_magicl_G_20141021032906.jpg
+      width: '553'
+      height: '369'
+    images:
+      '1':
+        item_id: '744708228'
+        image_id: '1'
+        src: http://si.wsj.net/public/resources/images/BN-FC568_magicl_G_20141021032906.jpg
+        width: '553'
+        height: '369'
+        credit: Magic Leap
+        caption: An animation on Magic Leap’s website shows an image of a tiny elephant
+          moving on a person’s hands.
+      '2':
+        item_id: '744708228'
+        image_id: '2'
+        src: http://si.wsj.net/public/resources/images/BN-FC563_magicl_E_20141021031551.jpg
+        width: '359'
+        height: '239'
+        credit: Magic Leap
+        caption: Magic Leap is led by Chief Executive Rony Abovitz, who sold a robotics
+          medical-device business to Stryker for $1.65 billion.
+      '3':
+        item_id: '744708228'
+        image_id: '3'
+        src: http://si.wsj.net/public/resources/images/BN-FC899_top10v_G_20141021145152.jpg
+        width: '553'
+        height: '369'
+        credit: Dow Jones VentureSource
+        caption: ''
+  '744713638':
+    item_id: '744713638'
+    resolved_id: '744713638'
+    given_url: http://www.fastcompany.com/3037345/fast-feed/so-bad-ass-you-cant-believe-it-magic-leap-raises-542-million-to-launch-the-future-
+    given_title: '"So Badass You Can''t Believe It" Magic Leap Raises $542 Million
+      To Launch T'
+    favorite: '0'
+    status: '1'
+    time_added: '1413952879'
+    time_updated: '1413991597'
+    time_read: '1413956225'
+    time_favorited: '0'
+    sort_id: 44
+    resolved_title: '"So Badass You Can''t Believe It" Magic Leap Raises $542 Million
+      To Launch The Future Of Computing'
+    resolved_url: http://www.fastcompany.com/3037345/fast-feed/so-bad-ass-you-cant-believe-it-magic-leap-raises-542-million-to-launch-the-future-
+    excerpt: 'If you''re a card-carrying member of the Where''s my jetpack? school
+      of innovation, lamenting every new messaging app as a sign of the bankrupt imagination
+      of the tech world, this news is for you: There''s a company that, at best, you
+      heard of a week ago, based on the outskirts of'
+    is_article: '1'
+    is_index: '0'
+    has_video: '0'
+    has_image: '1'
+    word_count: '1034'
+    authors:
+      '5990604':
+        item_id: '744713638'
+        author_id: '5990604'
+        name: David Lidsky
+        url: http://www.fastcompany.com/user/david-lidsky
+    image:
+      item_id: '744713638'
+      src: http://g.fastcompany.net/multisite_files/fastcompany/imagecache/320x240/p-1-mcp-Thomas-Tull-P4A0261.jpg
+      width: '0'
+      height: '0'
+    images:
+      '1':
+        item_id: '744713638'
+        image_id: '1'
+        src: http://g.fastcompany.net/multisite_files/fastcompany/imagecache/320x240/p-1-mcp-Thomas-Tull-P4A0261.jpg
+        width: '0'
+        height: '0'
+        credit: "\n          [Photo & Video: courtesy of Magic Leap]\n        "
+        caption: ''
+      '2':
+        item_id: '744713638'
+        image_id: '2'
+        src: http://f.fastcompany.net/multisite_files/fastcompany/imagecache/inline-large/inline/2014/10/3037345-inline-i-1-the-magic-leap-story.jpg
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+  '744705371':
+    item_id: '744705371'
+    resolved_id: '744705371'
+    given_url: http://techcrunch.com/2014/10/21/magic-leap-tech/
+    given_title: Magic Leap Secures $542M Led By Google For “Lightweight Wearable”
+      Tech That
+    favorite: '0'
+    status: '1'
+    time_added: '1413952576'
+    time_updated: '1413991598'
+    time_read: '1413956234'
+    time_favorited: '0'
+    sort_id: 45
+    resolved_title: Magic Leap Secures $542M Led By Google For “Lightweight Wearable”
+      Tech That Merges Physical And Digital Worlds
+    resolved_url: http://techcrunch.com/2014/10/21/magic-leap-tech/
+    excerpt: It’s rare that a company can stay relatively secretive while raising
+      a huge amount of funding, but Florida’s Magic Leap has managed that. The startup,
+      led by CEO Rony Abovitz, announced today the close of its $542 million Series
+      B, featuring investors led by Google, Inc.
+    is_article: '1'
+    is_index: '0'
+    has_video: '0'
+    has_image: '1'
+    word_count: '911'
+    authors:
+      '5586895':
+        item_id: '744705371'
+        author_id: '5586895'
+        name: Darrell Etherington
+        url: http://techcrunch.com/author/darrell-etherington/
+    image:
+      item_id: '744705371'
+      src: http://tctechcrunch2011.files.wordpress.com/2014/10/magic-leap.gif?w=738
+      width: '0'
+      height: '0'
+    images:
+      '1':
+        item_id: '744705371'
+        image_id: '1'
+        src: http://tctechcrunch2011.files.wordpress.com/2014/10/magic-leap.gif?w=738
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '2':
+        item_id: '744705371'
+        image_id: '2'
+        src: https://tctechcrunch2011.files.wordpress.com/2014/10/sub_1136.jpg?w=1024&h=576
+        width: '1024'
+        height: '576'
+        credit: ''
+        caption: ''
+  '741792877':
+    item_id: '741792877'
+    resolved_id: '741792877'
+    given_url: http://alistafart.com/article/4-ways-to-make-your-website-thin-enough-for-the-ipad-air-2/
+    given_title: 4 Ways to Make Your Website Thin Enough for the iPad Air 2 | A List,
+      A Fart
+    favorite: '1'
+    status: '0'
+    time_added: '1413952536'
+    time_updated: '1413991598'
+    time_read: '0'
+    time_favorited: '1413956295'
+    sort_id: 46
+    resolved_title: 4 Ways to Make Your Website Thin Enough for the iPad Air 2
+    resolved_url: http://alistafart.com/article/4-ways-to-make-your-website-thin-enough-for-the-ipad-air-2/
+    excerpt: On Thursday, October 16th, Apple introduced the latest version of the
+      iPad, and it’s the thinnest tablet on the market. In true Apple form, however,
+      the new changes are sending developers and designers into a frenzy to make sure
+      their sites and apps are compatible.
+    is_article: '1'
+    is_index: '0'
+    has_video: '0'
+    has_image: '1'
+    word_count: '306'
+    authors:
+      '24641615':
+        item_id: '741792877'
+        author_id: '24641615'
+        name: Contributor
+        url: http://alistafart.com/article/author/barry/
+    image:
+      item_id: '741792877'
+      src: http://alistafart.com/wp-content/uploads/2014/10/measuring_mark.jpg
+      width: '632'
+      height: '440'
+    images:
+      '1':
+        item_id: '741792877'
+        image_id: '1'
+        src: http://alistafart.com/wp-content/uploads/2014/10/measuring_mark.jpg
+        width: '632'
+        height: '440'
+        credit: ''
+        caption: ''
+      '2':
+        item_id: '741792877'
+        image_id: '2'
+        src: http://i0.wp.com/alistafart.com/wp-content/uploads/2014/10/low-carb-icon-fig.jpg
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: Fig. 1
+  '745414423':
+    item_id: '745414423'
+    resolved_id: '745414423'
+    given_url: http://www.reddit.com/r/webdev/comments/2jwvyz/webdev_what_other_subreddits_do_you_subscribe_to/
+    given_title: 'top scoring links : reddit.com'
+    favorite: '1'
+    status: '0'
+    time_added: '1413952482'
+    time_updated: '1413991598'
+    time_read: '0'
+    time_favorited: '1413956293'
+    sort_id: 47
+    resolved_title: 'webdev: What other subreddits do you subscribe to?'
+    resolved_url: http://www.reddit.com/r/webdev/comments/2jwvyz/webdev_what_other_subreddits_do_you_subscribe_to/
+    excerpt: '4 points (100% upvoted) shortlink: Submit a new text post webdev subscribeunsubscribe71,377
+      readers 130 users here now  a community for 5 years message the moderators webdev:
+      What other subreddits do you subscribe to? (self.'
+    is_article: '0'
+    is_index: '0'
+    has_video: '0'
+    has_image: '0'
+    word_count: '87'
+    authors:
+      '16206743':
+        item_id: '745414423'
+        author_id: '16206743'
+        name: macdonaldhall
+        url: http://www.reddit.com/user/macdonaldhall
+  '744819094':
+    item_id: '744819094'
+    resolved_id: '744819094'
+    given_url: http://www.uxbooth.com/articles/designing-for-dyslexia-part-1/
+    given_title: 'top scoring links : reddit.com'
+    favorite: '0'
+    status: '1'
+    time_added: '1413952466'
+    time_updated: '1413991598'
+    time_read: '1413986106'
+    time_favorited: '0'
+    sort_id: 48
+    resolved_title: Designing for Dyslexia (Part 1)
+    resolved_url: http://www.uxbooth.com/articles/designing-for-dyslexia-part-1/
+    excerpt: 'There are fifty-two cards in a standard deck of cards, and we are tasked
+      with putting them in order, whatever that might mean to us. We might choose
+      to simply place the cards into two piles: blacks and reds, and leave it at that.'
+    is_article: '1'
+    is_index: '0'
+    has_video: '0'
+    has_image: '1'
+    word_count: '1724'
+    tags:
+      ux:
+        item_id: '744819094'
+        tag: ux
+    authors:
+      '7812445':
+        item_id: '744819094'
+        author_id: '7812445'
+        name: Andrew Zusman
+        url: http://www.uxbooth.com/author/andrewzusman/
+    image:
+      item_id: '744819094'
+      src: http://assets.uxbooth.com/uploads/2014/10/Cards.jpg
+      width: '0'
+      height: '0'
+    images:
+      '1':
+        item_id: '744819094'
+        image_id: '1'
+        src: http://assets.uxbooth.com/uploads/2014/10/Cards.jpg
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '2':
+        item_id: '744819094'
+        image_id: '2'
+        src: http://assets.uxbooth.com/uploads/2014/10/Dyslexia.jpg
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+  '744646864':
+    item_id: '744646864'
+    resolved_id: '744646864'
+    given_url: http://www.reddit.com/r/web_design/comments/2jvfbk/ux_companion_a_glossary_of_ux_theories_tools/
+    given_title: 'top scoring links : reddit.com'
+    favorite: '0'
+    status: '1'
+    time_added: '1413952459'
+    time_updated: '1413991598'
+    time_read: '1413985486'
+    time_favorited: '0'
+    sort_id: 49
+    resolved_title: UX Companion - a glossary of UX theories, tools & principles
+    resolved_url: http://www.reddit.com/r/web_design/comments/2jvfbk/ux_companion_a_glossary_of_ux_theories_tools/
+    excerpt: '1 point (100% upvoted) shortlink: Submit a new text post web_design
+      subscribeunsubscribe115,559 readers 119 users here now  a community for 6 years
+      message the moderators • • • UX Companion - a glossary of UX theories, tools
+      & principles (self.'
+    is_article: '0'
+    is_index: '0'
+    has_video: '0'
+    has_image: '0'
+    word_count: '61'
+    tags:
+      ux:
+        item_id: '744646864'
+        tag: ux
+    authors:
+      '2686059':
+        item_id: '744646864'
+        author_id: '2686059'
+        name: golden
+        url: ''
+  '674329705':
+    item_id: '674329705'
+    resolved_id: '674329705'
+    given_url: https://www.simpfinity.com/blog/content-first/
+    given_title: 'top scoring links : reddit.com'
+    favorite: '1'
+    status: '0'
+    time_added: '1413952450'
+    time_updated: '1413991598'
+    time_read: '0'
+    time_favorited: '1413956284'
+    sort_id: 50
+    resolved_title: '"Content First" Approach to Website Development'
+    resolved_url: https://www.simpfinity.com/blog/content-first/
+    excerpt: 'Now you probably have a web development process something like this
+      - and this is the so-called “design first” approach: Client signs the contract.
+      Client pays the deposit.'
+    is_article: '1'
+    is_index: '0'
+    has_video: '0'
+    has_image: '1'
+    word_count: '1118'
+    authors:
+      '16752270':
+        item_id: '674329705'
+        author_id: '16752270'
+        name: Visnja Zeljeznjak
+        url: https://www.simpfinity.com/blog/author/luckyisgood/
+    image:
+      item_id: '674329705'
+      src: https://www.simpfinity.com/media/cta-rrwebook.jpg
+      width: '0'
+      height: '0'
+    images:
+      '1':
+        item_id: '674329705'
+        image_id: '1'
+        src: https://www.simpfinity.com/media/cta-rrwebook.jpg
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+  '745413611':
+    item_id: '745413611'
+    resolved_id: '745413611'
+    given_url: https://github.com/gemgento/rails_script
+    given_title: RailsScript - A Rails-centric, object oriented, featherweight framework
+      for
+    favorite: '0'
+    status: '0'
+    time_added: '1413952394'
+    time_updated: '1413955665'
+    time_read: '0'
+    time_favorited: '0'
+    sort_id: 51
+    resolved_title: gemgento/rails_script
+    resolved_url: https://github.com/gemgento/rails_script
+    excerpt: RailsScript is a Rails-centric, object oriented, featherweight framework
+      for writing CoffeeScript. It is optimized for the Rails Asset Pipeline and is
+      compatible with TurboLinks.
+    is_article: '1'
+    is_index: '0'
+    has_video: '0'
+    has_image: '0'
+    word_count: '961'
+    tags:
+      rails:
+        item_id: '745413611'
+        tag: rails
+    authors:
+      '25378690':
+        item_id: '745413611'
+        author_id: '25378690'
+        name: bokwon
+        url: https://github.com/bokwon
+  '734928910':
+    item_id: '734928910'
+    resolved_id: '734928910'
+    given_url: http://box.scotch.io/
+    given_title: You don't need MAMP. Use Scotch Box, a fully configured Vagrant implementat
+    favorite: '0'
+    status: '1'
+    time_added: '1413952345'
+    time_updated: '1413955562'
+    time_read: '1413955464'
+    time_favorited: '0'
+    sort_id: 52
+    resolved_title: Scotch Box
+    resolved_url: http://box.scotch.io/
+    excerpt: Scotch Box is a preconfigured Vagrant Box with a full array of LAMP Stack
+      features to get you up and running with Vagrant in no time.  A lot of PHP websites
+      and applications don't require much server configuration or overhead at first.
+    is_article: '0'
+    is_index: '1'
+    has_video: '1'
+    has_image: '1'
+    word_count: '864'
+    tags:
+      php:
+        item_id: '734928910'
+        tag: php
+    image:
+      item_id: '734928910'
+      src: https://scotch.io/wp-content/themes/scotch-twentyfive/img/scotch-logo.png
+      width: '0'
+      height: '0'
+    images:
+      '1':
+        item_id: '734928910'
+        image_id: '1'
+        src: https://scotch.io/wp-content/themes/scotch-twentyfive/img/scotch-logo.png
+        width: '0'
+        height: '0'
+        credit: " scotch.io"
+        caption: ''
+      '2':
+        item_id: '734928910'
+        image_id: '2'
+        src: http://box.scotch.io/banner-vagrant.jpg
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '3':
+        item_id: '734928910'
+        image_id: '3'
+        src: http://box.scotch.io/banner-virtual-box.jpg
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '4':
+        item_id: '734928910'
+        image_id: '4'
+        src: http://box.scotch.io/database-logins.jpg
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '5':
+        item_id: '734928910'
+        image_id: '5'
+        src: http://box.scotch.io/banner-updates.jpg
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+    videos:
+      '1':
+        item_id: '734928910'
+        video_id: '1'
+        src: "//www.youtube.com/embed/rmAGWJxCoug?autoplay=1&loop=1&playlist=rmAGWJxCoug&modestbranding=1&showinfo=0&theme=light&playsinline=1"
+        width: '0'
+        height: '0'
+        type: '1'
+        vid: rmAGWJxCoug
+      '2':
+        item_id: '734928910'
+        video_id: '2'
+        src: "//www.youtube.com/embed/g9fxPLolCKo?modestbranding=1&showinfo=0&theme=light&playsinline=1"
+        width: '0'
+        height: '0'
+        type: '1'
+        vid: g9fxPLolCKo
+      '3':
+        item_id: '734928910'
+        video_id: '3'
+        src: "//www.youtube.com/embed/QFfEp9M66W4?modestbranding=1&showinfo=0&theme=light&playsinline=1"
+        width: '0'
+        height: '0'
+        type: '1'
+        vid: QFfEp9M66W4
+      '4':
+        item_id: '734928910'
+        video_id: '4'
+        src: "//www.youtube.com/embed/7saQczUsG9E?modestbranding=1&showinfo=0&theme=light&playsinline=1"
+        width: '0'
+        height: '0'
+        type: '1'
+        vid: 7saQczUsG9E
+      '5':
+        item_id: '734928910'
+        video_id: '5'
+        src: "//www.youtube.com/embed/906Yddm2_qY?modestbranding=1&showinfo=0&theme=light&playsinline=1"
+        width: '0'
+        height: '0'
+        type: '1'
+        vid: 906Yddm2_qY
+  '745003905':
+    item_id: '745003905'
+    resolved_id: '745003905'
+    given_url: https://www.firebase.com/blog/2014-10-21-firebase-joins-google.html
+    given_title: Firebase is Joining Google
+    favorite: '0'
+    status: '1'
+    time_added: '1413952335'
+    time_updated: '1413955118'
+    time_read: '1413955118'
+    time_favorited: '0'
+    sort_id: 53
+    resolved_title: Firebase is Joining Google!
+    resolved_url: https://www.firebase.com/blog/2014-10-21-firebase-joins-google.html
+    excerpt: Over the past three years, we’ve gone from a crazy idea that ‘just might
+      work’ to a proven product used by 110,000 developers. Today, I couldn’t be happier
+      to announce that we’ve joined Google.  Two big reasons.
+    is_article: '1'
+    is_index: '0'
+    has_video: '0'
+    has_image: '1'
+    word_count: '380'
+    image:
+      item_id: '745003905'
+      src: https://www.firebase.com/resources/images/team/james_tamplin.jpg
+      width: '0'
+      height: '0'
+    images:
+      '1':
+        item_id: '745003905'
+        image_id: '1'
+        src: https://www.firebase.com/resources/images/team/james_tamplin.jpg
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '2':
+        item_id: '745003905'
+        image_id: '2'
+        src: https://www.firebase.com/resources/images/blog/firebase_cloud.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+  '318737163':
+    item_id: '318737163'
+    resolved_id: '318737163'
+    given_url: http://limi.net/checkboxes-that-kill/
+    given_title: Checkboxes that kill your product — Alex Limi
+    favorite: '0'
+    status: '1'
+    time_added: '1413952301'
+    time_updated: '1413991598'
+    time_read: '1413987265'
+    time_favorited: '0'
+    sort_id: 54
+    resolved_title: Checkboxes that kill your product — Alex Limi
+    resolved_url: http://limi.net/checkboxes-that-kill/
+    excerpt: If I told you that a company is shipping a product to hundreds of millions
+      of users right now, and included in the product are several prominent buttons
+      that will break the product completely if you click them, and possibly lock
+      you out from the Internet — can you guess which product it is?
+    is_article: '1'
+    is_index: '0'
+    has_video: '0'
+    has_image: '1'
+    word_count: '1263'
+    tags:
+      ux:
+        item_id: '318737163'
+        tag: ux
+    images:
+      '2':
+        item_id: '318737163'
+        image_id: '2'
+        src: http://i.imgur.com/3aLJmS2.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '3':
+        item_id: '318737163'
+        image_id: '3'
+        src: http://i.imgur.com/c6OOjp7.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '4':
+        item_id: '318737163'
+        image_id: '4'
+        src: http://i.imgur.com/W2QOeWQ.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '5':
+        item_id: '318737163'
+        image_id: '5'
+        src: http://i.imgur.com/0JmJ60q.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '6':
+        item_id: '318737163'
+        image_id: '6'
+        src: http://i.imgur.com/Q1SRzmH.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '7':
+        item_id: '318737163'
+        image_id: '7'
+        src: http://i.imgur.com/FjDK3dn.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '8':
+        item_id: '318737163'
+        image_id: '8'
+        src: http://i.imgur.com/YxVQID7.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '9':
+        item_id: '318737163'
+        image_id: '9'
+        src: http://i.imgur.com/Zn3auty.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '10':
+        item_id: '318737163'
+        image_id: '10'
+        src: http://i.imgur.com/eLDED0a.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '11':
+        item_id: '318737163'
+        image_id: '11'
+        src: http://i.imgur.com/91N6zzP.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '12':
+        item_id: '318737163'
+        image_id: '12'
+        src: http://limi.net/alexander4.jpg
+        width: '88'
+        height: '89'
+        credit: ''
+        caption: ''
+  '739037710':
+    item_id: '739037710'
+    resolved_id: '739037710'
+    given_url: http://www.slate.com/blogs/future_tense/2014/10/14/ada_lovelace_day_2014_if_you_have_ever_used_a_computer_you_should_celebrate.html
+    given_title: Happy Ada Lovelace Day!
+    favorite: '1'
+    status: '0'
+    time_added: '1413951987'
+    time_updated: '1414124709'
+    time_read: '0'
+    time_favorited: '1413956987'
+    sort_id: 55
+    resolved_title: 'Ada Lovelace Day 2014 : If you have ever used a computer, you
+      should celebrate this trailblazer.'
+    resolved_url: http://www.slate.com/blogs/future_tense/2014/10/14/ada_lovelace_day_2014_if_you_have_ever_used_a_computer_you_should_celebrate.html
+    excerpt: 'This article originally appeared in The Last Word on Nothing. Tagline:
+      “Science says the first word on everything, and the last word on nothing”—Victor
+      Hugo.  I’m not, in general, huge on holidays.'
+    is_article: '1'
+    is_index: '0'
+    has_video: '0'
+    has_image: '1'
+    word_count: '822'
+    authors:
+      '2885219':
+        item_id: '739037710'
+        author_id: '2885219'
+        name: Michelle Nijhuis
+        url: http://www.slate.com/authors.michelle_nijhuis.html
+    image:
+      item_id: '739037710'
+      src: http://www.slate.com/content/dam/slate/blogs/future_tense/2014/10/14/397px-Ada_Byron_aged_seventeen_(1832).jpg.CROP.promovar-medium2.jpg
+      width: '0'
+      height: '0'
+    images:
+      '1':
+        item_id: '739037710'
+        image_id: '1'
+        src: http://www.slate.com/content/dam/slate/blogs/future_tense/2014/10/14/397px-Ada_Byron_aged_seventeen_(1832).jpg.CROP.promovar-medium2.jpg
+        width: '0'
+        height: '0'
+        credit: Public domain image via Wikimedia Commons
+        caption: Ada Lovelace at age 17
+  '619950628':
+    item_id: '619950628'
+    resolved_id: '619950628'
+    given_url: https://www.npmjs.org/package/getpocket
+    given_title: getpocket
+    favorite: '0'
+    status: '1'
+    time_added: '1413951762'
+    time_updated: '1414041530'
+    time_read: '1414041531'
+    time_favorited: '0'
+    sort_id: 56
+    resolved_title: getpocket
+    resolved_url: https://www.npmjs.org/package/getpocket
+    excerpt: First, install the pocket sdk with npm.
+    is_article: '1'
+    is_index: '1'
+    has_video: '0'
+    has_image: '0'
+    word_count: '73'
+    tags:
+      pocket:
+        item_id: '619950628'
+        tag: pocket
+    authors:
+      '19656385':
+        item_id: '619950628'
+        author_id: '19656385'
+        name: leeqiang
+        url: ''
+  '619951380':
+    item_id: '619951380'
+    resolved_id: '619951380'
+    given_url: https://www.npmjs.org/package/pocket-sdk
+    given_title: pocket-sdk
+    favorite: '0'
+    status: '1'
+    time_added: '1413951758'
+    time_updated: '1414041531'
+    time_read: '1414041532'
+    time_favorited: '0'
+    sort_id: 57
+    resolved_title: pocket-sdk
+    resolved_url: https://www.npmjs.org/package/pocket-sdk
+    excerpt: This is a headless sdk for integrating with pocket app, including add
+      new articles, modify exist articles and fetch articles, etc.  First, install
+      the pocket sdk with npm.
+    is_article: '1'
+    is_index: '0'
+    has_video: '0'
+    has_image: '0'
+    word_count: '203'
+    tags:
+      pocket:
+        item_id: '619951380'
+        tag: pocket
+    authors:
+      '19656385':
+        item_id: '619951380'
+        author_id: '19656385'
+        name: leeqiang
+        url: ''
+  '745408215':
+    item_id: '745408215'
+    resolved_id: '745408215'
+    given_url: https://www.npmjs.org/package/pocket-api
+    given_title: pocket-api
+    favorite: '0'
+    status: '1'
+    time_added: '1413951755'
+    time_updated: '1414041532'
+    time_read: '1414041534'
+    time_favorited: '0'
+    sort_id: 58
+    resolved_title: pocket-api
+    resolved_url: https://www.npmjs.org/package/pocket-api
+    excerpt: First, install the pocket api with npm.  Please review the pocket API
+      for expected inputs and outputs and authentication flow.
+    is_article: '1'
+    is_index: '0'
+    has_video: '0'
+    has_image: '0'
+    word_count: '114'
+    tags:
+      pocket:
+        item_id: '745408215'
+        tag: pocket
+  '351869801':
+    item_id: '351869801'
+    resolved_id: '351869801'
+    given_url: https://www.npmjs.org/package/node-pocket
+    given_title: node-pocket
+    favorite: '0'
+    status: '1'
+    time_added: '1413951752'
+    time_updated: '1414041534'
+    time_read: '1414041535'
+    time_favorited: '0'
+    sort_id: 59
+    resolved_title: node-pocket
+    resolved_url: https://npmjs.org/package/node-pocket
+    excerpt: For using this wrapper you need to create Pocket class instanse from
+      main module, passing to it valid consumer_key and access_token fetched from
+      user.  First of all we need to get request token, by calling getRequestToken.
+      The url key must contain valid callback url for our application.
+    is_article: '1'
+    is_index: '0'
+    has_video: '0'
+    has_image: '0'
+    word_count: '548'
+    tags:
+      pocket:
+        item_id: '351869801'
+        tag: pocket
+  '583359395':
+    item_id: '583359395'
+    resolved_id: '583359395'
+    given_url: https://github.com/djchen/pocket-api-php/blob/master/src/Pocket.php
+    given_title: pocket-api-php/Pocket.php at master · djchen/pocket-api-php
+    favorite: '1'
+    status: '1'
+    time_added: '1413951586'
+    time_updated: '1414041536'
+    time_read: '1414041537'
+    time_favorited: '1414023102'
+    sort_id: 60
+    resolved_title: pocket-api-php/src/Pocket.php at master · djchen/pocket-api-php
+      · GitHub
+    resolved_url: https://github.com/djchen/pocket-api-php/blob/master/src/Pocket.php
+    excerpt: You can clone with HTTPS or Subversion.
+    is_article: '0'
+    is_index: '0'
+    has_video: '0'
+    has_image: '0'
+    word_count: '657'
+    tags:
+      pocket:
+        item_id: '583359395'
+        tag: pocket
+  '543716034':
+    item_id: '543716034'
+    resolved_id: '543716034'
+    given_url: https://github.com/djchen/pocket-api-php/blob/master/sample.php
+    given_title: pocket-api-php/sample.php at master · djchen/pocket-api-php
+    favorite: '1'
+    status: '1'
+    time_added: '1413951577'
+    time_updated: '1414041537'
+    time_read: '1414041539'
+    time_favorited: '1414023104'
+    sort_id: 61
+    resolved_title: pocket-api-php/sample.php at master · djchen/pocket-api-php ·
+      GitHub
+    resolved_url: https://github.com/djchen/pocket-api-php/blob/master/sample.php
+    excerpt: You can clone with HTTPS, or Subversion.
+    is_article: '0'
+    is_index: '0'
+    has_video: '0'
+    has_image: '0'
+    word_count: '406'
+    tags:
+      pocket:
+        item_id: '543716034'
+        tag: pocket
+  '427432470':
+    item_id: '427432470'
+    resolved_id: '427432470'
+    given_url: https://github.com/djchen/
+    given_title: ''
+    favorite: '0'
+    status: '1'
+    time_added: '1413950792'
+    time_updated: '1414041539'
+    time_read: '1414041540'
+    time_favorited: '0'
+    sort_id: 62
+    resolved_title: Dan Chen djchen
+    resolved_url: https://github.com/djchen/
+    excerpt: ''
+    is_article: '0'
+    is_index: '1'
+    has_video: '0'
+    has_image: '0'
+    word_count: '0'
+  '326032836':
+    item_id: '326032836'
+    resolved_id: '326032836'
+    given_url: https://github.com/altryne/pocket_alfred
+    given_title: ''
+    favorite: '0'
+    status: '1'
+    time_added: '1413933538'
+    time_updated: '1414041562'
+    time_read: '1414041563'
+    time_favorited: '0'
+    sort_id: 63
+    resolved_title: altryne/pocket_alfred · GitHub
+    resolved_url: https://github.com/altryne/pocket_alfred
+    excerpt: 'This workflow uses oAuth to authenticate you with Pocket''s API and
+      doesn''t store any passwords or keys Usage : First login with alfred using "pocket_login"
+      workflow Then, use "pocket" to save urls to pocket Support for : Chrome (if
+      open) Safari (if open) Clipboard (if has url)'
+    is_article: '0'
+    is_index: '0'
+    has_video: '0'
+    has_image: '0'
+    word_count: '46'
+    tags:
+      pocket:
+        item_id: '326032836'
+        tag: pocket
+  '585264518':
+    item_id: '585264518'
+    resolved_id: '585264518'
+    given_url: https://github.com/fniephaus/alfred-pocket
+    given_title: ''
+    favorite: '0'
+    status: '1'
+    time_added: '1413933525'
+    time_updated: '1414041563'
+    time_read: '1414041564'
+    time_favorited: '0'
+    sort_id: 64
+    resolved_title: fniephaus/alfred-pocket
+    resolved_url: https://github.com/fniephaus/alfred-pocket
+    excerpt: This workflow lets you manage your Pocket list with Alfred.  This workflow
+      uses pocket and alfred-workflow.
+    is_article: '1'
+    is_index: '0'
+    has_video: '0'
+    has_image: '1'
+    word_count: '83'
+    tags:
+      pocket:
+        item_id: '585264518'
+        tag: pocket
+    authors:
+      '24374185':
+        item_id: '585264518'
+        author_id: '24374185'
+        name: fniephaus
+        url: https://github.com/fniephaus
+    image:
+      item_id: '585264518'
+      src: https://camo.githubusercontent.com/59738c189860c2531df85d2b2f53a67fa48ff46e/68747470733a2f2f7261772e6769746875622e636f6d2f666e696570686175732f616c667265642d706f636b65742f6d61737465722f73637265656e73686f742e676966
+      width: '0'
+      height: '0'
+    images:
+      '1':
+        item_id: '585264518'
+        image_id: '1'
+        src: https://camo.githubusercontent.com/59738c189860c2531df85d2b2f53a67fa48ff46e/68747470733a2f2f7261772e6769746875622e636f6d2f666e696570686175732f616c667265642d706f636b65742f6d61737465722f73637265656e73686f742e676966
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+  '247645235':
+    item_id: '247645235'
+    resolved_id: '247645235'
+    given_url: http://getpocket.com/developer/docs/sdk/objective-c
+    given_title: ''
+    favorite: '0'
+    status: '0'
+    time_added: '1413915812'
+    time_updated: '1413995472'
+    time_read: '0'
+    time_favorited: '0'
+    sort_id: 65
+    resolved_title: Pocket Objective-C SDK Documentation
+    resolved_url: http://getpocket.com/developer/docs/sdk/objective-c
+    excerpt: Thanks for checking out the Pocket SDK. With a few lines of code, your
+      app can quickly add support for saving URLs to users' Pocket lists.  The Pocket
+      SDK is the fastest way to add Pocket integration to any iOS or Mac application.
+      Adding the Pocket SDK to your app is incredibly easy.
+    is_article: '1'
+    is_index: '0'
+    has_video: '1'
+    has_image: '1'
+    word_count: '1343'
+    tags:
+      pocket:
+        item_id: '247645235'
+        tag: pocket
+    image:
+      item_id: '247645235'
+      src: https://s3.amazonaws.com/pocket-assets/adding-sdk.png
+      width: '0'
+      height: '0'
+    images:
+      '1':
+        item_id: '247645235'
+        image_id: '1'
+        src: https://s3.amazonaws.com/pocket-assets/adding-sdk.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '2':
+        item_id: '247645235'
+        image_id: '2'
+        src: https://s3.amazonaws.com/pocket-assets/adding-security-framework.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+    videos:
+      '1':
+        item_id: '247645235'
+        video_id: '1'
+        src: http://player.vimeo.com/video/52884079
+        width: '663'
+        height: '373'
+        type: '4'
+        vid: '52884079'
+  '610710171':
+    item_id: '610710171'
+    resolved_id: '610710171'
+    given_url: https://github.com/alexchee/pocket_api
+    given_title: ''
+    favorite: '1'
+    status: '1'
+    time_added: '1413915789'
+    time_updated: '1414041571'
+    time_read: '1414041573'
+    time_favorited: '1414023098'
+    sort_id: 66
+    resolved_title: alexchee/pocket_api · GitHub
+    resolved_url: https://github.com/alexchee/pocket_api
+    excerpt: 'Rubygem for Pocket (getpocket.com) API, formerly ReadItLater.  There''s
+      also some OAuth helper methods in PocketApi::Connection to generate Request
+      Tokens, Authorize URLs, and Access Tokens. Here''s a possible workflow: 1. Generate
+      Authorize URL for user to log in:'
+    is_article: '1'
+    is_index: '0'
+    has_video: '0'
+    has_image: '0'
+    word_count: '153'
+    tags:
+      pocket:
+        item_id: '610710171'
+        tag: pocket
+  '745042340':
+    item_id: '745042340'
+    resolved_id: '745042340'
+    given_url: http://www.rubydoc.info/gems/getpocket/0.0.5/frames
+    given_title: ''
+    favorite: '0'
+    status: '0'
+    time_added: '1413915776'
+    time_updated: '1413995472'
+    time_read: '0'
+    time_favorited: '0'
+    sort_id: 67
+    resolved_title: Documentation for getpocket (0.0.5)
+    resolved_url: http://www.rubydoc.info/gems/getpocket/0.0.5/frames
+    excerpt: ''
+    is_article: '0'
+    is_index: '0'
+    has_video: '0'
+    has_image: '0'
+    word_count: '0'
+    tags:
+      pocket:
+        item_id: '745042340'
+        tag: pocket
+  '242136405':
+    item_id: '242136405'
+    resolved_id: '242136405'
+    given_url: https://github.com/Pocket/Pocket-ObjC-SDK
+    given_title: ''
+    favorite: '0'
+    status: '0'
+    time_added: '1413915095'
+    time_updated: '1413995472'
+    time_read: '0'
+    time_favorited: '0'
+    sort_id: 68
+    resolved_title: Pocket/Pocket-ObjC-SDK · GitHub
+    resolved_url: http://github.com/Pocket/Pocket-ObjC-SDK
+    excerpt: Thanks for checking out the Pocket SDK. With a few lines of code, your
+      app can quickly add support for saving URLs to users' Pocket lists.  The Pocket
+      SDK is the fastest way to add Pocket integration to any iOS or Mac application.
+      Adding the Pocket SDK to your app is incredibly easy.
+    is_article: '1'
+    is_index: '0'
+    has_video: '0'
+    has_image: '1'
+    word_count: '1163'
+    tags:
+      pocket:
+        item_id: '242136405'
+        tag: pocket
+    image:
+      item_id: '242136405'
+      src: https://s3.amazonaws.com/pocket-assets/adding-sdk.png
+      width: '0'
+      height: '0'
+    images:
+      '1':
+        item_id: '242136405'
+        image_id: '1'
+        src: https://s3.amazonaws.com/pocket-assets/adding-sdk.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '2':
+        item_id: '242136405'
+        image_id: '2'
+        src: https://s3.amazonaws.com/pocket-assets/adding-security-framework.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+  '181652838':
+    item_id: '181652838'
+    resolved_id: '181652838'
+    given_url: https://github.com/MacRuby/MacRuby/wiki/Creating-a-simple-application
+    given_title: ''
+    favorite: '0'
+    status: '0'
+    time_added: '1413914467'
+    time_updated: '1413914465'
+    time_read: '0'
+    time_favorited: '0'
+    sort_id: 69
+    resolved_title: Creating a simple application · MacRuby/MacRuby Wiki · GitHub
+    resolved_url: https://github.com/MacRuby/MacRuby/wiki/Creating-a-simple-application
+    excerpt: In this article we will explain how to create a simple application using
+      MacRuby.  Here is the user interface of the application we will build. We will
+      call this application "StopWatch".
+    is_article: '1'
+    is_index: '0'
+    has_video: '0'
+    has_image: '1'
+    word_count: '693'
+    image:
+      item_id: '181652838'
+      src: https://a248.e.akamai.net/camo.github.com/c312bc4a2e1573c59a5d09e97c123255222fe651/687474703a2f2f776174736f6e313937382e6769746875622e636f6d2f4d6163527562792d446f4a6f2f696d616765732f656e2f696e74726f2d73746f7077617463682f73746f7077617463682e706e67
+      width: '0'
+      height: '0'
+    images:
+      '1':
+        item_id: '181652838'
+        image_id: '1'
+        src: https://a248.e.akamai.net/camo.github.com/c312bc4a2e1573c59a5d09e97c123255222fe651/687474703a2f2f776174736f6e313937382e6769746875622e636f6d2f4d6163527562792d446f4a6f2f696d616765732f656e2f696e74726f2d73746f7077617463682f73746f7077617463682e706e67
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '2':
+        item_id: '181652838'
+        image_id: '2'
+        src: https://a248.e.akamai.net/camo.github.com/9559d524cd2eb1376b94e79dab40c2785bbcdc44/687474703a2f2f776174736f6e313937382e6769746875622e636f6d2f4d6163527562792d446f4a6f2f696d616765732f656e2f696e74726f2d73746f7077617463682f6d61696e6d656e755f7869622e706e67
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '3':
+        item_id: '181652838'
+        image_id: '3'
+        src: https://a248.e.akamai.net/camo.github.com/f3d55fc4b6dbb6ed7265b41b316b7a535e21ee85/687474703a2f2f776174736f6e313937382e6769746875622e636f6d2f4d6163527562792d446f4a6f2f696d616765732f656e2f696e74726f2d73746f7077617463682f77696e646f775f73746f7077617463682e706e67
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '4':
+        item_id: '181652838'
+        image_id: '4'
+        src: https://a248.e.akamai.net/camo.github.com/8fa62eca8934e93a5fd35c11ff98fc46d17e0efc/687474703a2f2f776174736f6e313937382e6769746875622e636f6d2f4d6163527562792d446f4a6f2f696d616765732f656e2f696e74726f2d73746f7077617463682f73686f775f6f626a6563745f6c6962726172792e706e67
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '5':
+        item_id: '181652838'
+        image_id: '5'
+        src: https://a248.e.akamai.net/camo.github.com/1d87aef46c7c4338c67b74e5ba143fd2c7447af2/687474703a2f2f776174736f6e313937382e6769746875622e636f6d2f4d6163527562792d446f4a6f2f696d616765732f656e2f696e74726f2d73746f7077617463682f75695f64657369676e2e706e67
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '6':
+        item_id: '181652838'
+        image_id: '6'
+        src: https://a248.e.akamai.net/camo.github.com/d41fd7258e90210f2dc4d7b2cffef4b98ae5288a/687474703a2f2f776174736f6e313937382e6769746875622e636f6d2f4d6163527562792d446f4a6f2f696d616765732f656e2f696e74726f2d73746f7077617463682f636f6e6e6563745f6f75746c65742e706e67
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '7':
+        item_id: '181652838'
+        image_id: '7'
+        src: https://a248.e.akamai.net/camo.github.com/885272897d4aab503f2dd1f90c94d25614f24279/687474703a2f2f776174736f6e313937382e6769746875622e636f6d2f4d6163527562792d446f4a6f2f696d616765732f656e2f696e74726f2d73746f7077617463682f6f75746c6574732e706e67
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '8':
+        item_id: '181652838'
+        image_id: '8'
+        src: https://a248.e.akamai.net/camo.github.com/d5e5b0e24da0d555760276c24ee63f2824b54012/687474703a2f2f776174736f6e313937382e6769746875622e636f6d2f4d6163527562792d446f4a6f2f696d616765732f656e2f696e74726f2d73746f7077617463682f636f6e6e6563745f616374696f6e2e706e67
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '9':
+        item_id: '181652838'
+        image_id: '9'
+        src: https://a248.e.akamai.net/camo.github.com/7fd3e55076651137fd99301858349e7b7c45d80d/687474703a2f2f776174736f6e313937382e6769746875622e636f6d2f4d6163527562792d446f4a6f2f696d616765732f656e2f696e74726f2d73746f7077617463682f616374696f6e732e706e67
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+      '10':
+        item_id: '181652838'
+        image_id: '10'
+        src: https://a248.e.akamai.net/camo.github.com/c4135e9b7c42a47427d7681cb421ea149f07e99a/687474703a2f2f776174736f6e313937382e6769746875622e636f6d2f4d6163527562792d446f4a6f2f696d616765732f656e2f696e74726f2d73746f7077617463682f736368656d652e706e67
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+  '215440048':
+    item_id: '215440048'
+    resolved_id: '215440048'
+    given_url: http://www.raywenderlich.com/18413/how-to-make-a-simple-mac-app-on-os-x-10-7-tutorial-part-33
+    given_title: 'How to Make a Simple Mac App on OS X 10.7 Tutorial: Part 3/3 - Ray
+      Wenderli'
+    favorite: '0'
+    status: '0'
+    time_added: '1413904954'
+    time_updated: '1413912531'
+    time_read: '0'
+    time_favorited: '0'
+    sort_id: 70
+    resolved_title: 'How to Make a Simple Mac App on OS X 10.7 Tutorial: Part 3/3'
+    resolved_url: http://www.raywenderlich.com/18413/how-to-make-a-simple-mac-app-on-os-x-10-7-tutorial-part-33
+    excerpt: This is a post by iOS Tutorial Team Member Ernesto García, a Mac and
+      iOS developer founder of CocoaWithChurros.  Welcome back to the third and final
+      part of the How to Create a Simple Mac App tutorial series!
+    is_article: '1'
+    is_index: '0'
+    has_video: '0'
+    has_image: '1'
+    word_count: '1954'
+    tags:
+      dev:
+        item_id: '215440048'
+        tag: dev
+      ios:
+        item_id: '215440048'
+        tag: ios
+    authors:
+      '9737646':
+        item_id: '215440048'
+        author_id: '9737646'
+        name: Ernesto García
+        url: http://www.raywenderlich.com/author/erndev
+    image:
+      item_id: '215440048'
+      src: http://cdn1.raywenderlich.com/wp-content/uploads/2012/07/bug-in-mac.png
+      width: '250'
+      height: '250'
+    images:
+      '1':
+        item_id: '215440048'
+        image_id: '1'
+        src: http://cdn1.raywenderlich.com/wp-content/uploads/2012/07/bug-in-mac.png
+        width: '250'
+        height: '250'
+        credit: ''
+        caption: |2
+
+          It’s time to show these Scary Bugs in a Mac Application! :]
+      '2':
+        item_id: '215440048'
+        image_id: '2'
+        src: http://cdn2.raywenderlich.com/wp-content/uploads/2012/07/big-view-wrong-700x452.png
+        width: '700'
+        height: '452'
+        credit: ''
+        caption: ''
+      '3':
+        item_id: '215440048'
+        image_id: '3'
+        src: http://cdn5.raywenderlich.com/wp-content/uploads/2012/07/small-view-wrong.png
+        width: '480'
+        height: '398'
+        credit: ''
+        caption: ''
+      '4':
+        item_id: '215440048'
+        image_id: '4'
+        src: http://cdn4.raywenderlich.com/wp-content/uploads/2012/07/minumum-view.png
+        width: '625'
+        height: '466'
+        credit: ''
+        caption: ''
+      '5':
+        item_id: '215440048'
+        image_id: '5'
+        src: http://cdn3.raywenderlich.com/wp-content/uploads/2012/07/minimum-view-separator-700x372.png
+        width: '700'
+        height: '372'
+        credit: ''
+        caption: ''
+      '6':
+        item_id: '215440048'
+        image_id: '6'
+        src: http://cdn3.raywenderlich.com/wp-content/uploads/2012/07/minimun-size.png
+        width: '304'
+        height: '282'
+        credit: ''
+        caption: ''
+      '7':
+        item_id: '215440048'
+        image_id: '7'
+        src: http://cdn3.raywenderlich.com/wp-content/uploads/2012/07/window-minimum-size-700x471.png
+        width: '700'
+        height: '471'
+        credit: ''
+        caption: ''
+      '8':
+        item_id: '215440048'
+        image_id: '8'
+        src: http://cdn5.raywenderlich.com/wp-content/uploads/2012/07/run-with.min-size-628x500.png
+        width: '628'
+        height: '500'
+        credit: ''
+        caption: ''
+      '9':
+        item_id: '215440048'
+        image_id: '9'
+        src: http://cdn4.raywenderlich.com/wp-content/uploads/2012/07/autosize-list.png
+        width: '304'
+        height: '105'
+        credit: ''
+        caption: ''
+      '10':
+        item_id: '215440048'
+        image_id: '10'
+        src: http://cdn4.raywenderlich.com/wp-content/uploads/2012/07/autosize-add-button.png
+        width: '300'
+        height: '108'
+        credit: ''
+        caption: ''
+      '11':
+        item_id: '215440048'
+        image_id: '11'
+        src: http://cdn1.raywenderlich.com/wp-content/uploads/2012/07/autosizing-finished-tableviw-454x500.png
+        width: '454'
+        height: '500'
+        credit: ''
+        caption: ''
+      '12':
+        item_id: '215440048'
+        image_id: '12'
+        src: http://cdn2.raywenderlich.com/wp-content/uploads/2012/07/autosizing-textfield.png
+        width: '301'
+        height: '109'
+        credit: ''
+        caption: ''
+      '13':
+        item_id: '215440048'
+        image_id: '13'
+        src: http://cdn1.raywenderlich.com/wp-content/uploads/2012/07/autosizing-button-image.png
+        width: '300'
+        height: '107'
+        credit: ''
+        caption: ''
+      '14':
+        item_id: '215440048'
+        image_id: '14'
+        src: http://cdn4.raywenderlich.com/wp-content/uploads/2012/07/autosizing-imageview.png
+        width: '301'
+        height: '103'
+        credit: ''
+        caption: ''
+      '15':
+        item_id: '215440048'
+        image_id: '15'
+        src: http://cdn5.raywenderlich.com/wp-content/uploads/2012/07/autosizin-FINAL-547x500.png
+        width: '547'
+        height: '500'
+        credit: ''
+        caption: ''
+      '16':
+        item_id: '215440048'
+        image_id: '16'
+        src: http://cdn3.raywenderlich.com/wp-content/uploads/2012/08/Screen-Shot-2012-08-11-at-10.45.07-PM.png
+        width: '643'
+        height: '477'
+        credit: ''
+        caption: ''
+      '17':
+        item_id: '215440048'
+        image_id: '17'
+        src: http://cdn1.raywenderlich.com/wp-content/uploads/2012/07/button-disabled-700x442.png
+        width: '700'
+        height: '442'
+        credit: ''
+        caption: ''
+      '18':
+        item_id: '215440048'
+        image_id: '18'
+        src: http://cdn3.raywenderlich.com/wp-content/uploads/2012/07/delete-outlet-700x394.png
+        width: '700'
+        height: '394'
+        credit: ''
+        caption: ''
+      '19':
+        item_id: '215440048'
+        image_id: '19'
+        src: http://cdn5.raywenderlich.com/wp-content/uploads/2012/07/delete-name-700x282.png
+        width: '700'
+        height: '282'
+        credit: ''
+        caption: ''
+      '20':
+        item_id: '215440048'
+        image_id: '20'
+        src: http://cdn1.raywenderlich.com/wp-content/uploads/2012/07/controls-disabled-601x500.png
+        width: '601'
+        height: '500'
+        credit: ''
+        caption: ''
+      '21':
+        item_id: '215440048'
+        image_id: '21'
+        src: http://cdn3.raywenderlich.com/downloads/ErnestoGarcia.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+  '213580556':
+    item_id: '213580556'
+    resolved_id: '213580556'
+    given_url: http://www.raywenderlich.com/18319/how-to-make-a-simple-mac-app-on-os-x-10-7-tutorial-part-23
+    given_title: ''
+    favorite: '0'
+    status: '0'
+    time_added: '1413904948'
+    time_updated: '1413904947'
+    time_read: '0'
+    time_favorited: '0'
+    sort_id: 71
+    resolved_title: 'How to Make a Simple Mac App on OS X 10.7 Tutorial: Part 2/3'
+    resolved_url: http://www.raywenderlich.com/18319/how-to-make-a-simple-mac-app-on-os-x-10-7-tutorial-part-23
+    excerpt: This is a post by iOS Tutorial Team Member Ernesto García, a Mac and
+      iOS developer founder of CocoaWithChurros.  This tutorial is the second part
+      of a three part series on how to create a simple Mac App.
+    is_article: '1'
+    is_index: '0'
+    has_video: '0'
+    has_image: '1'
+    word_count: '4337'
+    image:
+      item_id: '213580556'
+      src: http://cdn1.raywenderlich.com/wp-content/uploads/2012/07/bug-in-mac.png
+      width: '250'
+      height: '250'
+    images:
+      '1':
+        item_id: '213580556'
+        image_id: '1'
+        src: http://cdn1.raywenderlich.com/wp-content/uploads/2012/07/bug-in-mac.png
+        width: '250'
+        height: '250'
+        credit: ''
+        caption: |2
+
+          It’s time to show these Scary Bugs in a Mac Application! :]
+      '2':
+        item_id: '213580556'
+        image_id: '2'
+        src: http://cdn3.raywenderlich.com/wp-content/uploads/2012/07/add-files-700x473.png
+        width: '700'
+        height: '473'
+        credit: ''
+        caption: ''
+      '3':
+        item_id: '213580556'
+        image_id: '3'
+        src: http://cdn3.raywenderlich.com/wp-content/uploads/2012/07/project-after-extras.png.png
+        width: '263'
+        height: '366'
+        credit: ''
+        caption: ''
+      '4':
+        item_id: '213580556'
+        image_id: '4'
+        src: http://cdn3.raywenderlich.com/wp-content/uploads/2012/07/view-resized.png
+        width: '663'
+        height: '473'
+        credit: ''
+        caption: ''
+      '5':
+        item_id: '213580556'
+        image_id: '5'
+        src: http://cdn4.raywenderlich.com/wp-content/uploads/2012/07/view-withcontrols.png
+        width: '579'
+        height: '439'
+        credit: ''
+        caption: ''
+      '6':
+        item_id: '213580556'
+        image_id: '6'
+        src: http://cdn4.raywenderlich.com/wp-content/uploads/2012/07/view-resizing-700x365.png
+        width: '700'
+        height: '365'
+        credit: ''
+        caption: ''
+      '7':
+        item_id: '213580556'
+        image_id: '7'
+        src: http://cdn5.raywenderlich.com/wp-content/uploads/2012/07/starRating-class-700x271.png
+        width: '700'
+        height: '271'
+        credit: ''
+        caption: ''
+      '8':
+        item_id: '213580556'
+        image_id: '8'
+        src: http://cdn3.raywenderlich.com/wp-content/uploads/2012/07/change-labels-700x255.png
+        width: '700'
+        height: '255'
+        credit: ''
+        caption: ''
+      '9':
+        item_id: '213580556'
+        image_id: '9'
+        src: http://cdn2.raywenderlich.com/wp-content/uploads/2012/07/window-with-controls-598x500.png
+        width: '598'
+        height: '500'
+        credit: ''
+        caption: ''
+      '10':
+        item_id: '213580556'
+        image_id: '10'
+        src: http://cdn2.raywenderlich.com/wp-content/uploads/2012/07/tableView-outlet-drag-700x298.png
+        width: '700'
+        height: '298'
+        credit: ''
+        caption: ''
+      '11':
+        item_id: '213580556'
+        image_id: '11'
+        src: http://cdn2.raywenderlich.com/wp-content/uploads/2012/07/tableView-outlet-name-658x500.png
+        width: '658'
+        height: '500'
+        credit: ''
+        caption: ''
+      '12':
+        item_id: '213580556'
+        image_id: '12'
+        src: http://cdn3.raywenderlich.com/wp-content/uploads/2012/07/selected-bug-small-634x500.png
+        width: '634'
+        height: '500'
+        credit: ''
+        caption: ''
+      '13':
+        item_id: '213580556'
+        image_id: '13'
+        src: http://cdn1.raywenderlich.com/wp-content/uploads/2012/07/imageview-goodscale-634x500.png
+        width: '634'
+        height: '500'
+        credit: ''
+        caption: ''
+      '14':
+        item_id: '213580556'
+        image_id: '14'
+        src: http://cdn5.raywenderlich.com/wp-content/uploads/2012/07/add-buttons-700x391.png
+        width: '700'
+        height: '391'
+        credit: ''
+        caption: ''
+      '15':
+        item_id: '213580556'
+        image_id: '15'
+        src: http://cdn3.raywenderlich.com/wp-content/uploads/2012/07/create-action-add-700x407.png
+        width: '700'
+        height: '407'
+        credit: ''
+        caption: ''
+      '16':
+        item_id: '213580556'
+        image_id: '16'
+        src: http://cdn4.raywenderlich.com/wp-content/uploads/2012/07/name-action-add-700x260.png
+        width: '700'
+        height: '260'
+        credit: ''
+        caption: ''
+      '17':
+        item_id: '213580556'
+        image_id: '17'
+        src: http://cdn4.raywenderlich.com/wp-content/uploads/2012/07/run-add-delete-buttons-634x500.png
+        width: '634'
+        height: '500'
+        credit: ''
+        caption: ''
+      '18':
+        item_id: '213580556'
+        image_id: '18'
+        src: http://cdn3.raywenderlich.com/wp-content/uploads/2012/07/drag-textfield-action-700x410.png
+        width: '700'
+        height: '410'
+        credit: ''
+        caption: ''
+      '19':
+        item_id: '213580556'
+        image_id: '19'
+        src: http://cdn4.raywenderlich.com/wp-content/uploads/2012/07/name-textfield-action-700x338.png
+        width: '700'
+        height: '338'
+        credit: ''
+        caption: ''
+      '20':
+        item_id: '213580556'
+        image_id: '20'
+        src: http://cdn2.raywenderlich.com/wp-content/uploads/2012/07/name-edit-634x500.png
+        width: '634'
+        height: '500'
+        credit: ''
+        caption: ''
+      '21':
+        item_id: '213580556'
+        image_id: '21'
+        src: http://cdn4.raywenderlich.com/wp-content/uploads/2012/07/change-rating-634x500.png
+        width: '634'
+        height: '500'
+        credit: ''
+        caption: ''
+      '22':
+        item_id: '213580556'
+        image_id: '22'
+        src: http://cdn3.raywenderlich.com/wp-content/uploads/2012/07/change-picture-button-591x500.png
+        width: '591'
+        height: '500'
+        credit: ''
+        caption: ''
+      '23':
+        item_id: '213580556'
+        image_id: '23'
+        src: http://cdn3.raywenderlich.com/wp-content/uploads/2012/07/linked-frameworks-700x428.png
+        width: '700'
+        height: '428'
+        credit: ''
+        caption: ''
+      '24':
+        item_id: '213580556'
+        image_id: '24'
+        src: http://cdn3.raywenderlich.com/wp-content/uploads/2012/07/add-quartz.png
+        width: '406'
+        height: '461'
+        credit: ''
+        caption: ''
+      '25':
+        item_id: '213580556'
+        image_id: '25'
+        src: http://cdn1.raywenderlich.com/wp-content/uploads/2012/07/capture-picture-634x500.png
+        width: '634'
+        height: '500'
+        credit: ''
+        caption: ''
+      '26':
+        item_id: '213580556'
+        image_id: '26'
+        src: http://cdn3.raywenderlich.com/downloads/ErnestoGarcia.png
+        width: '0'
+        height: '0'
+        credit: ''
+        caption: ''
+  '744459447':
+    item_id: '744459447'
+    resolved_id: '744459447'
+    given_url: http://www.reddit.com/r/webdev/comments/2jspat/were_working_on_an_everexpanding_way_to_keep/
+    given_title: We're working on an ever-expanding way to keep bookmarks on the web
+      relevan
+    favorite: '0'
+    status: '0'
+    time_added: '1413862992'
+    time_updated: '1413862994'
+    time_read: '0'
+    time_favorited: '0'
+    sort_id: 72
+    resolved_title: 'We''re working on an ever-expanding way to keep bookmarks on
+      the web relevant. The idea is to take the data anywhere and be reminded of the
+      content you save for future viewing. We wrote the concept in 36 hours for a
+      hackathon. I present it at a tech event in Nov. Some suggestions would be great!
+      : webdev'
+    resolved_url: http://www.reddit.com/r/webdev/comments/2jspat/were_working_on_an_everexpanding_way_to_keep/
+    excerpt: We're working on an ever-expanding way to keep bookmarks on the web relevant.
+      The idea is to take the data anywhere and be reminded of the content you save
+      for future viewing. We wrote the concept in 36 hours for a hackathon. I present
+      it at a tech event in Nov.
+    is_article: '0'
+    is_index: '0'
+    has_video: '0'
+    has_image: '0'
+    word_count: '198'
+    tags:
+      ifttt:
+        item_id: '744459447'
+        tag: ifttt
+      reddit:
+        item_id: '744459447'
+        tag: reddit
+    authors:
+      '4600607':
+        item_id: '744459447'
+        author_id: '4600607'
+        name: SgtQuack
+        url: http://www.reddit.com/user/SgtQuack
+  '744041590':
+    item_id: '744041590'
+    resolved_id: '744041590'
+    given_url: http://online.wsj.com/articles/humanitys-last-great-hope-venture-capitalists-1413817498
+    given_title: ''
+    favorite: '0'
+    status: '1'
+    time_added: '1413861606'
+    time_updated: '1413906532'
+    time_read: '1413900522'
+    time_favorited: '0'
+    sort_id: 73
+    resolved_title: ''
+    resolved_url: http://online.wsj.com/articles/humanitys-last-great-hope-venture-capitalists-1413817498
+    excerpt: ''
+    is_article: '0'
+    is_index: '0'
+    has_video: '0'
+    has_image: '0'
+    word_count: '0'
+    tags:
+      techonomics:
+        item_id: '744041590'
+        tag: techonomics
+  '743515869':
+    item_id: '743515869'
+    resolved_id: '743515869'
+    given_url: http://www.bbc.com/news/business-29617115
+    given_title: ''
+    favorite: '0'
+    status: '1'
+    time_added: '1413861422'
+    time_updated: '1413906532'
+    time_read: '1413900848'
+    time_favorited: '0'
+    sort_id: 74
+    resolved_title: Why firms don't want you to be brilliant at your job
+    resolved_url: http://www.bbc.com/news/business-29617115
+    excerpt: Are those workers who stay for years with the same companies unambitious
+      and mediocre, or does the corporate grind make them so? asks author and Financial
+      Times columnist Lucy Kellaway.
+    is_article: '1'
+    is_index: '0'
+    has_video: '0'
+    has_image: '1'
+    word_count: '673'
+    tags:
+      work:
+        item_id: '743515869'
+        tag: work
+    image:
+      item_id: '743515869'
+      src: http://news.bbcimg.co.uk/media/images/78220000/jpg/_78220672_160910502.jpg
+      width: '624'
+      height: '351'
+    images:
+      '1':
+        item_id: '743515869'
+        image_id: '1'
+        src: http://news.bbcimg.co.uk/media/images/78220000/jpg/_78220672_160910502.jpg
+        width: '624'
+        height: '351'
+        credit: ''
+        caption: ''
+      '2':
+        item_id: '743515869'
+        image_id: '2'
+        src: http://news.bbcimg.co.uk/media/images/68896000/jpg/_68896389_lucykellawayv1(c)angusmuir.jpg
+        width: '304'
+        height: '171'
+        credit: ''
+        caption: "\r\n  "
+      '3':
+        item_id: '743515869'
+        image_id: '3'
+        src: http://news.bbcimg.co.uk/media/images/78219000/jpg/_78219425_78775544.jpg
+        width: '624'
+        height: '351'
+        credit: ''
+        caption: Bridging the age gap at work is getting harder, argues Lucy
+  '744078215':
+    item_id: '744078215'
+    resolved_id: '744078215'
+    given_url: http://tech.genius.com/Paul-krugman-amazons-monopsony-is-not-ok-annotated
+    given_title: ''
+    favorite: '0'
+    status: '1'
+    time_added: '1413861142'
+    time_updated: '1413906532'
+    time_read: '1413901469'
+    time_favorited: '0'
+    sort_id: 75
+    resolved_title: Paul Krugman – Amazon's Monopsony Is Not Ok
+    resolved_url: http://tech.genius.com/Paul-krugman-amazons-monopsony-is-not-ok-annotated
+    excerpt: This article is annotated! Click on the highlights to read what others
+      are saying. If you'd like to add your own insights, comments, or questions to
+      a specific line, highlight the relevant text and click on the button that pops
+      up.  Amazon.
+    is_article: '1'
+    is_index: '0'
+    has_video: '0'
+    has_image: '0'
+    word_count: '822'
+    tags:
+      techonomics:
+        item_id: '744078215'
+        tag: techonomics
+    authors:
+      '24355291':
+        item_id: '744078215'
+        author_id: '24355291'
+        name: Christopher Glazek
+        url: http://genius.com/Glazek
+  '510598184':
+    item_id: '510598184'
+    resolved_id: '510598184'
+    given_url: http://arxiv.org/pdf/1312.5602v1.pdf
+    given_title: ''
+    favorite: '0'
+    status: '0'
+    time_added: '1413861051'
+    time_updated: '1413861053'
+    time_read: '0'
+    time_favorited: '0'
+    sort_id: 76
+    resolved_title: ''
+    resolved_url: http://arxiv.org/pdf/1312.5602v1.pdf
+    excerpt: ''
+    is_article: '0'
+    is_index: '0'
+    has_video: '0'
+    has_image: '0'
+    word_count: '0'
+  '744012637':
+    item_id: '744012637'
+    resolved_id: '744012637'
+    given_url: http://www.technologyreview.com/view/531911/isaac-asimov-mulls-how-do-people-get-new-ideas/
+    given_title: ''
+    favorite: '0'
+    status: '1'
+    time_added: '1413860866'
+    time_updated: '1414123641'
+    time_read: '1413981493'
+    time_favorited: '0'
+    sort_id: 77
+    resolved_title: 'Published for the First Time : a 1959 Essay by Isaac Asimov on
+      Creativity'
+    resolved_url: http://www.technologyreview.com/view/531911/isaac-asimov-mulls-how-do-people-get-new-ideas/
+    excerpt: In 1959, I worked as a scientist at Allied Research Associates in Boston.
+      The company was an MIT spinoff that originally focused on the effects of nuclear
+      weapons on aircraft structures.
+    is_article: '1'
+    is_index: '0'
+    has_video: '0'
+    has_image: '0'
+    word_count: '1889'
+    tags:
+      creativity:
+        item_id: '744012637'
+        tag: creativity
+  '740574756':
+    item_id: '740574756'
+    resolved_id: '740574756'
+    given_url: https://remotecoder.io
+    given_title: ''
+    favorite: '0'
+    status: '0'
+    time_added: '1413860638'
+    time_updated: '1413864386'
+    time_read: '0'
+    time_favorited: '0'
+    sort_id: 78
+    resolved_title: Remote Coder
+    resolved_url: https://remotecoder.io
+    excerpt: 'The place to find Programmers, DevOps and UX engineers. Hire the best,
+      wherever they are!  We are unable to show job listings right now. Error: {{
+      jobsError }}'
+    is_article: '0'
+    is_index: '1'
+    has_video: '0'
+    has_image: '0'
+    word_count: '134'
+    tags:
+      job:
+        item_id: '740574756'
+        tag: job
+  '173043369':
+    item_id: '173043369'
+    resolved_id: '173043369'
+    given_url: http://editorconfig.org/?
+    given_title: ''
+    favorite: '0'
+    status: '0'
+    time_added: '1413860617'
+    time_updated: '1413864417'
+    time_read: '0'
+    time_favorited: '0'
+    sort_id: 79
+    resolved_title: EditorConfig
+    resolved_url: http://editorconfig.org/?
+    excerpt: EditorConfig helps developers define and maintain consistent coding styles
+      between different editors and IDEs.
+    is_article: '0'
+    is_index: '1'
+    has_video: '0'
+    has_image: '0'
+    word_count: '1065'
+    tags:
+      dev:
+        item_id: '173043369'
+        tag: dev
+    authors:
+      '12563573':
+        item_id: '173043369'
+        author_id: '12563573'
+        name: AppCode
+        url: https://github.com/editorconfig/editorconfig-jetbrains#readme
+error: 
+search_meta:
+  search_type: normal
+since: 1414258975
