@@ -4,12 +4,23 @@ Current phase: PocketTags - Stats for Pocket Tags
 
 We use [Pocket](http://getpocket.com), we need stats for our Tags on Pocket.
 
-This project uses [pocket-ruby](https://github.com/turadg/pocket-ruby).
+## Gems
+
+As you could see in [Gemfile](https://github.com/HartasCuerdas/ruPocket/blob/master/Gemfile), we use:
+
+### [pocket-ruby](https://github.com/turadg/pocket-ruby)
 
 Thanks to [alexchee](https://github.com/alexchee), author of [pocket-api](https://github.com/alexchee/pocket_api). He advise me about **pocket-ruby**.
 
-**app.rb** is based on demo-server.rb from **pocket-ruby**
+**app.rb** is based on demo-server.rb from **pocket-ruby**.
 
+### [pocket-class](https://rubygems.org/gems/pocket-console)
+
+This gem provides methods to output stats about Pocket tags.
+
+### [pocket-classes](https://rubygems.org/gems/pocket-classes)
+
+Classes to work with Pocket.
 
 ## Run script
 
