@@ -23,20 +23,9 @@ Thanks to [alexchee](https://github.com/alexchee), author of [pocket-api](https:
 
     Stats are printed to the console
 
-## In console you will get
+## In console you will get your stats, like this...
 
-    ===========
-     Tag Stats
-    ===========
-    dev: 32
-    history: 25
-    startups: 20
-    things: 18
-    ruby: 17
-    rails: 17
-    node.js: 15
-    chess: 11
-    ===========
+![Pocket Tagging Stats](pocket-tagging-stats.png)
 
 ## I think that stats are wrong
 

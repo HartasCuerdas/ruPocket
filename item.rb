@@ -3,6 +3,7 @@ class Item
     @givenTitle = ''
     @givenURL = ''
     @tags = []
+    @status = 0
   end
   def print
     puts 'Given title: ' + @givenTitle
@@ -18,6 +19,9 @@ class Item
   def setTags(tags)
     @tags = tags
   end
+  def setStatus(status)
+    @status = status
+  end
   def getGivenTitle
     @givenTitle
   end
@@ -26,5 +30,8 @@ class Item
   end
   def getTags
     @tags
+  end
+  def getStatus
+    @status
   end
 end

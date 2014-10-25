@@ -4,6 +4,7 @@ class ItemLoader
 
   def initialize
     @items = []
+    @untaggedItems =[]
   end
 
   def load(list)
@@ -19,6 +20,9 @@ class ItemLoader
       given_url = info['given_url']
       oItem.setGivenURL(given_url)
 
+      status = info['status']
+      oItem.setStatus(status)
+
       if info.has_key?('tags')
         tags = []
         info_tags = info['tags']
@@ -27,14 +31,46 @@ class ItemLoader
           tags.push(str_tag)
         end
         oItem.setTags(tags)
+        @items.push(oItem)
+      else
+        @untaggedItems.push(oItem)
       end
-
-      @items.push(oItem)
 
     end
 
     @items
 
+  end
+
+  def printItems
+    puts ''
+    puts '==========='
+    puts ' Items '
+    puts '-----------'
+    puts 'status | title'
+    for item in @items
+      given_title = item.getGivenTitle
+      status = item.getStatus
+      tags = item.getTags
+      if !tags.empty?
+        puts "#{status} | #{tags} #{given_title}"
+      else
+        puts "#{status} | #{given_title}"
+      end
+    end
+    puts '==========='
+    puts ''
+  end
+
+  def printUntaggedStats
+    tagged = @items.length
+    untagged = @untaggedItems.length
+    puts '===================='
+    puts '   General Stats    '
+    puts '--------------------'
+    puts sprintf "%-15s %2d", 'Tagged items:', tagged
+    puts sprintf "%-15s %2d", 'Untagged items:', untagged
+    puts '--------------------'
   end
 
 end
