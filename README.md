@@ -31,6 +31,14 @@ Classes to work with Pocket.
 - [Gem in RubyGems](https://rubygems.org/gems/pocket-classes)
 - [source code in github](https://github.com/HartasCuerdas/pocket-classes)
 
+## Use your Consumer Key
+
+Use your consumer key in [app.rb file](https://github.com/HartasCuerdas/ruPocket/blob/master/app.rb#L17)
+
+    Pocket.configure do |config|
+      config.consumer_key = 'YOUR-CONSUMER_KEY'
+    end
+
 ## Run script
 
     ruby app.rb
