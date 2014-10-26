@@ -9,7 +9,7 @@ GEM
     multi_json (1.10.1)
     multipart-post (1.2.0)
     pocket-classes (0.0.1)
-    pocket-console (0.0.2)
+    pocket-console (0.0.3)
       pocket-classes (~> 0.0.1)
     pocket-ruby (0.0.5)
       faraday (>= 0.7, < 0.9)
