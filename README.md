@@ -1,4 +1,6 @@
-# ruPocket
+# ruPocket [![Dependency Status](https://gemnasium.com/HartasCuerdas/ruPocket.svg)](https://gemnasium.com/HartasCuerdas/ruPocket)
+
+[![Code Climate](https://codeclimate.com/github/HartasCuerdas/ruPocket/badges/gpa.svg)](https://codeclimate.com/github/HartasCuerdas/ruPocket) [![Inline docs](http://inch-ci.org/github/HartasCuerdas/ruPocket.svg?branch=master&style=flat)](http://inch-ci.org/github/HartasCuerdas/ruPocket)
 
 Current phase: PocketTags - Stats for Pocket Tags
 
