@@ -35,8 +35,14 @@ def tags(info)
   itemLoader = ItemLoader.new(list)
   taggedItems = itemLoader.getTaggedItems
   untaggedItems = itemLoader.getUntaggedItems
+  readTaggedItems = itemLoader.getReadTaggedItems
+  readUntaggedItems = itemLoader.getReadUntaggedItems
 
   pocketConsole = PocketConsole.new(taggedItems, untaggedItems)
+  pocketConsole = PocketConsole.new(
+    taggedItems, untaggedItems,
+    readTaggedItems, readUntaggedItems
+  )
   pocketConsole.printStats
 
   'Stats are in the console'

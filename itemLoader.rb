@@ -5,6 +5,8 @@ class ItemLoader
   def initialize(list)
     @taggedItems = []
     @untaggedItems = []
+    @unreadTaggedItems = 0
+    @unreadUntaggedItems = 0
     load(list)
   end
 
@@ -33,8 +35,14 @@ class ItemLoader
         end
         oItem.setTags(tags)
         @taggedItems.push(oItem)
+        if (status == '0')
+          @unreadTaggedItems += 1
+        end
       else
         @untaggedItems.push(oItem)
+        if (status == '0')
+          @unreadUntaggedItems += 1
+        end
       end
 
     end
@@ -47,6 +55,22 @@ class ItemLoader
 
   def getUntaggedItems
     @untaggedItems
+  end
+
+  def getUnreadTaggedItems
+    @unreadTaggedItems
+  end
+
+  def getUnreadUntaggedItems
+    @unreadUntaggedItems
+  end
+
+  def getReadTaggedItems
+    @taggedItems.length - @unreadTaggedItems
+  end
+
+  def getReadUntaggedItems
+    @untaggedItems.length - @unreadUntaggedItems
   end
 
 end
