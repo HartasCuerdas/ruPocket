@@ -45,6 +45,11 @@ Use your consumer key in [app.rb file](https://github.com/HartasCuerdas/ruPocket
 
     ruby app.rb
 
+## Get a valid access token
+
+    open http://localhost:4567/oauth/connect
+    #authorize your Pocket app
+
 ## Generate stats
 
     open http://localhost:4567/tags
