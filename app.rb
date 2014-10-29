@@ -38,7 +38,6 @@ def tags(info)
   readTaggedItems = itemLoader.getReadTaggedItems
   readUntaggedItems = itemLoader.getReadUntaggedItems
 
-  pocketConsole = PocketConsole.new(taggedItems, untaggedItems)
   pocketConsole = PocketConsole.new(
     taggedItems, untaggedItems,
     readTaggedItems, readUntaggedItems
