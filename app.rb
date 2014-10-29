@@ -29,12 +29,40 @@ get '/tags-cache' do
   tags(info)
 end
 
+get '/tags-cache-specific-terms' do
+  client = Pocket.client(:access_token => session[:access_token])
+  info = client.retrieve(:detailType => :complete, :state => :all)
+  File.open('./.cache-files/info.yml', 'w') {|f| f.write(YAML.dump(info)) }
+  tags_specific_terms(info)
+end
+
+get '/tags-cache-specific-terms-cache' do
+  info = YAML.load(File.read('./.cache-files/info.yml'))
+  tags_specific_terms(info)
+end
+
 def tags(info)
+  pocketConsole = initializePocketConsole(info)
+  pocketConsole.printStats
+  'Stats are in the console'
+end
+
+def tags_specific_terms(info)
+  pocketConsole = initializePocketConsole(info)
+
+  terms = ['dev', 'job', 'work', 'ruby', 'ux', 'techonomics']
+  pocketConsole.printSpecificTermsStats(terms)
+
+  'Stats are in the console'
+end
+
+def initializePocketConsole(info)
   list = info['list']
 
   itemLoader = ItemLoader.new(list)
   taggedItems = itemLoader.getTaggedItems
   untaggedItems = itemLoader.getUntaggedItems
+  # the two following variables contain integer values
   readTaggedItems = itemLoader.getReadTaggedItems
   readUntaggedItems = itemLoader.getReadUntaggedItems
 
@@ -42,9 +70,6 @@ def tags(info)
     taggedItems, untaggedItems,
     readTaggedItems, readUntaggedItems
   )
-  pocketConsole.printStats
-
-  'Stats are in the console'
 end
 
 # All the code below belongs to pocket-ruby

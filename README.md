@@ -54,9 +54,17 @@ Use your consumer key in [app.rb file](https://github.com/HartasCuerdas/ruPocket
 
     open http://localhost:4567/tags
 
-## Use cached data to generate stats
+## Generate stats (using cached data)
 
     open http://localhost:4567/tags-cache
+
+## Generate stats for specific terms
+
+    open http://localhost:4567/tags-cache-specific-terms
+
+## Generate stats for specific terms (using cached data)
+
+    open http://localhost:4567/tags-cache-specific-terms-cache
 
 ## Where my stats are?
 
